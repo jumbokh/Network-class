@@ -1,0 +1,10 @@
+### 西西恩ㄟ 筆記
+#### [路由器基本設定及靜態路由](http://ccnatiy.blogspot.com/2014/10/blog-post_25.html)
+* [Q1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A%E8%88%87%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B1.pka)
+* [Ans1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A%E8%88%87%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B1-ans.pka)
+#### [路由器基本設定及靜態路由2](http://ccnatiy.blogspot.com/2014/10/2.html)
+* [Q2](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A%E8%88%87%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B12.pka)
+* [Ans](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A%E8%88%87%E9%9D%9C%E6%85%8B%E8%B7%AF%E7%94%B12-ans.pka)
+#### [EIGRP實作](http://ccnatiy.blogspot.com/2014/10/eigrp.html)
+* [Q3](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/EIGRP%E5%AF%A6%E4%BD%9C.pka)
+* [Ans](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/EIGRP%E5%AF%A6%E4%BD%9C-ans.pka)
