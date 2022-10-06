@@ -4,6 +4,7 @@
 ### 電腦網路概論
 #### 網路概論與ISO七層
 #### Packet Tracer安裝與簡單操作
+* [packet tracer下載](https://www.netacad.com/courses/packet-tracer)
 ### 參考網站
 * [澎湖人自由軟體交流CCNA實作講義](http://www.phcno1.net/modules/tad_book3/index.php?op=list_docs&tbsn=21)
 * [Packet Tracer 思科模拟器入门教程 之一 初识Packet Tracer](https://blog.csdn.net/gengkui9897/article/details/85107429)
