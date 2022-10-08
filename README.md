@@ -3,7 +3,7 @@
 
 ### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/class.7z)
 #### 網路概論與ISO七層
-#### Packet Tracer安裝與簡單操作
+#### [Packet Tracer安裝與簡單操作](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/CiscoPacketTracer.pdf)
 * [packet tracer下載](https://www.netacad.com/courses/packet-tracer)
 ### 參考網站
 * [澎湖人自由軟體交流CCNA實作講義](http://www.phcno1.net/modules/tad_book3/index.php?op=list_docs&tbsn=21)
