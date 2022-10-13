@@ -82,7 +82,7 @@
 * Lab9. 實驗一
 * Lab10. 實驗二
 
-#### Linux系統概論
+#### Linux系統概論 [大学霸 Kali Linux 安全渗透教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/)
 * Virtualbox與Kali Linux
 * 安裝設定與套件管理
 * 檔案與目錄操作
