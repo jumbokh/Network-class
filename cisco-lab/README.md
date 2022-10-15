@@ -39,6 +39,16 @@ Router1#ip route 192.168.10.0 255.255.255.0 192.168.50.2
     * 1. 在二台Switch都執行RSTP
     * 2. 一個port只能允許一台電腦
     * 參考 http://www.phcno1.net/modules/tad_book3/html_all.php?tbsn=21
+```
+switch>en
+switch#conf t
+switch(config)# interface fastethernet0/1 ==>設定interface，也可以設定range
+switch(config-if)# switchport mode access ==>將這個port設成access port
+switch(config-if)# switchport port-security ==>啟用 port-security
+switch(config-if)# switchport port-security maximum 1 ==>一個port只能允許一台電腦
+switch(config-if)# switchport port-security violation shutdown ==>違反規定者即shutdown
+switch(config-if)# switchport port-security mac-address sticky ==>自動學習mac，我們也可以看動輸入
+```
 * [Lab 6](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab6.pkt)
     * 2-3 switch的基本設定
     * port , vlan
