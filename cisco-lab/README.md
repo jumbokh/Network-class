@@ -88,6 +88,7 @@ vlan10:pc0、pc1、pc4、pc5
 vlan20:pc2、pc3、pc6、pc7
 Giga1/1設為trunk
 ```
+![vlan + port Trunk](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/vlanPortTrunk.JPG)
 ##
 * [Lab 7](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7.pkt)
     * switch trunk 2-5-1
