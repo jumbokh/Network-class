@@ -70,6 +70,25 @@ sw0(config)# switch port access vlan 20
 sw0(config)#int gigafastethernet 0/1 
 sw0(config-if)#switchport mode trunk
 ```
+##
+#### vlan-1 setup
+```
+pc0:192.168.10.1 接switchf0/1   vlan50
+pc1:192.168.10.2 接switchf0/2   vlan50
+pc3:192.168.10.3 接switchf0/3   vlan60
+pc4:192.168.10.4 接switchf0/4   vlan60
+測試pc1   ping    pc2 and pc3
+```
+##
+#### vlan-2 setup
+```
+pc0~pc3:192.168.10.1~192.168.10.4
+pc4~pc7:192.168.10.5~192.168.10.8
+vlan10:pc0、pc1、pc4、pc5
+vlan20:pc2、pc3、pc6、pc7
+Giga1/1設為trunk
+```
+##
 * [Lab 7](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7.pkt)
     * switch trunk 2-5-1
 * [Lab 7-1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7-1.pkt)
