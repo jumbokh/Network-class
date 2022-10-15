@@ -52,6 +52,24 @@ switch(config-if)# switchport port-security mac-address sticky ==>自動學習ma
 * [Lab 6](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab6.pkt)
     * 2-3 switch的基本設定
     * port , vlan
+```
+** Switch Trunk
+* Sw0
+    * pc0 - vlan 10 192.168.10.1
+	* pc1 - vlan 20 192.168.10.2
+* sw1
+    * pc2 - vlan 10 192.168.10.3
+	* pc3 - vlan 20 192.168.10.4
+** vlan setup
+sw0(config)# interface fastethernet 0/2
+sw0(config)# switchport access vlan 20
+** vlan range setup
+sw0(config)#int range fastethernet 0/10-20
+sw0(config)# switch port access vlan 20
+** port Trunk
+sw0(config)#int gigafastethernet 0/1 
+sw0(config-if)#switchport mode trunk
+```
 * [Lab 7](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7.pkt)
     * switch trunk 2-5-1
 * [Lab 7-1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7-1.pkt)
