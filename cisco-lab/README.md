@@ -20,7 +20,14 @@
 * [Lab 3](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab3.pkt)
     * 參考 http://www.phcno1.net/modules/tad_book3/page.php?tbdsn=517
     * 設定路由, 使得 192.168.100.2 可以 ping 192.168.10.3 的電腦
-    ![static Route](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/staticRoutes.jpg)
+```
+Router0#ip route 192.168.100.0 255.255.255.0 192.168.50.3
+指定192.168.100.0/24的封包往192.168.50.3這個ip送
+
+Router1#ip route 192.168.10.0 255.255.255.0 192.168.50.2
+指定192.168.10.0/24的封包往192.168.50.2這個ip送
+```
+![static Route](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/staticRoutes.jpg)
 * [Lab 3-1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab3-1.pkt)
 * [Lab 4a](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4a.pkt)
     * http://www.phcno1.net/modules/tad_book3/html_all.php?tbsn=21
