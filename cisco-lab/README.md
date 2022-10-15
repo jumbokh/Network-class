@@ -79,6 +79,7 @@ pc3:192.168.10.3 接switchf0/3   vlan60
 pc4:192.168.10.4 接switchf0/4   vlan60
 測試pc1   ping    pc2 and pc3
 ```
+![vlan1](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/vlan1.JPG)
 ##
 #### vlan-2 setup
 ```
