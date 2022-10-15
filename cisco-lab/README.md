@@ -9,6 +9,7 @@
 * [CSDN-Packet Tracer 思科模拟器入门教程 之三 交换机的Telnet远程登陆配置](https://blog.csdn.net/gengkui9897/article/details/85141157)
 ##
 ### 作業
+![lab2-1](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/Lab2-1.jpg)
 * [Lab 1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab1.pkt)
     * switch+2pc config
 * [Lab 2](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab2.pkt)
@@ -35,6 +36,9 @@ Router1#ip route 192.168.10.0 255.255.255.0 192.168.50.2
     * 2-1 Switch的STP協定
 * [Lab 4b](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4b.pkt)
 * [Lab 4c](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4c.pkt)
+* ![Lab4-1 spanning tree](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/Lab4-1.jpg)
+* ![spanning-tree sw](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/Lab5-0.jpg)
+* ![spanning-tree show](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/Lab5-1.jpg)
 * [Lab 5](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab5.pkt)
     * 1. 在二台Switch都執行RSTP
     * 2. 一個port只能允許一台電腦
@@ -52,6 +56,12 @@ switch(config-if)# switchport port-security mac-address sticky ==>自動學習ma
 * [Lab 6](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab6.pkt)
     * 2-3 switch的基本設定
     * port , vlan
+![vlan group](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/Lab6-1.jpg)
+```
+sw0(config)#int range fastethernet 0/10-20
+sw0(config)# switch port access vlan 20
+```
+##
 ```
 ** Switch Trunk
 * Sw0
