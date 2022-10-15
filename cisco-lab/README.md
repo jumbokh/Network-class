@@ -105,7 +105,7 @@ Giga1/1設為trunk
     * switch trunk 2-5-1
 * [Lab 7-1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab7-1.pkt)
 * [Lab 8](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab8-1.pkt)
-<pre>
+```
 3-1 LAB-1
 1)在工作區中新增一台CISCO1842的Router及一台PC
 2)使用PC透過Console連接到Router進行設定，設定如下：
@@ -115,14 +115,18 @@ Giga1/1設為trunk
 2-3)telnet password：12345
 2-4)Fastethernet ip：192.168.10.1/24
 2-5)將telnet密碼加密
+```
 ![hw1](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/hw1.JPG)
+```
 3-2 LAB-1
 請看下圖，在Packer Tracer中完成，設定好：
+```
 ![hw2](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/lab/images/hw2.JPG)
+```
 1)CISCO 2811的Fastethernet 0/0與Fastethernet 0/1的IP
 2)做好PC0與PC1的網路相關設定
 3)測試PC0是否能正確ping到PC1
-</pre>
+```
 * [Lab 8-2](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab8-2.pkt)
 * [路由器設定](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/readme.md)
 * [RIPv2+EIGRP]()    
