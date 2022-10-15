@@ -117,3 +117,5 @@ Giga1/1設為trunk
 * [路由器設定](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab-router/readme.md)
 * [RIPv2+EIGRP]()    
     * http://ccnatiy.blogspot.com/2015/01/ripv2eigrp.html
+##
+![NetMask](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/netmask.jpg)
