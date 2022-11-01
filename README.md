@@ -28,6 +28,7 @@
 九、搜尋命令
 十、檔案管理許可權命令
 ```
+#### [9個常見的 Nmap通訊埠掃描境](https://hack543.com/nmap-tutorial/)
 #### [Kali 滲透測試第一章](https://wooyun.js.org/drops/Kali%20Linux%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%20%20%E7%AC%AC%E4%B8%80%E7%AB%A0.html)
 #### Linux系統概論 [大学霸 Kali Linux 安全渗透教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/)
 * Virtualbox與Kali Linux
