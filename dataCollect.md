@@ -34,3 +34,6 @@ Address: 2404:6800:4012:4::2004
 
 (env) jumbo@jumbo-nb:~/notebooks$ 
 ```
+#### dig
+* [dig](https://charlie-c.me/post/dig/)
+* [DNS 問題除錯 dig 指令使用教學與範例](https://officeguide.cc/dns-problem-dig-debug-tutorial-examples/)
