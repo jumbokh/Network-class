@@ -15,6 +15,7 @@
 ##
 ### [Packet Tracer Lab](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/README.md)
 ##
+#### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/kaliChinese.md)
 #### [Kali Linux基礎](https://tw511.com/a/01/33439.html)
 ```
 一、Linux簡介
