@@ -29,7 +29,10 @@
 九、搜尋命令
 十、檔案管理許可權命令
 ```
+#### [Kali linux images](https://www.kali.org/get-kali/)
 #### [install kali on Android system non rooted](https://www.youtube.com/watch?v=KxOGyuGq0Ts&t=1s)
+#### [Install Kali Linux on Raspberry Pi 4](https://linuxhint.com/install_kali_linux_raspberry_pi_4/)
+* [Raspberry pi image](https://kali.download/arm-images/kali-2022.3/kali-linux-2022.3-raspberry-pi-arm64.img.xz)
 #### [如何成為駭客 – 基礎學習篇](https://hack543.com/how-to-become-a-hacker-basic-learning/)
 #### [9個常見的 Nmap通訊埠掃描境](https://hack543.com/nmap-tutorial/)
 #### [Kali 滲透測試第一章](https://wooyun.js.org/drops/Kali%20Linux%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%20%20%E7%AC%AC%E4%B8%80%E7%AB%A0.html)
