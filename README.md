@@ -43,6 +43,9 @@ dig
 dnsenum
 whois
 ```
+#### [install python2.7](https://github.com/jumbokh/Network-class/blob/main/installpy2.md)
+#### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
+#### [在 Kali Linux 上使用 virtualenv 執行 Python 2 撰寫的 exploit 程式](https://hack543.com/kali-linux-virtualenv-python2-exploit/)
 #### Linux系統概論 [大学霸 Kali Linux 安全渗透教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/)
 * Virtualbox與Kali Linux
 * 安裝設定與套件管理
