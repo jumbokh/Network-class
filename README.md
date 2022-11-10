@@ -42,7 +42,9 @@ nslookup
 dig
 dnsenum
 whois
+fierce
 ```
+![DNS](https://github.com/jumbokh/Network-class/blob/main/PfvqEUM.png)
 #### [install python2.7](https://github.com/jumbokh/Network-class/blob/main/installpy2.md)
 #### 設定 python3 為 default python [參考](https://linuxconfig.org/change-default-python-version-on-raspbian-gnu-linuxl)
 * Step 1. Add both (all) versions of python installed to the list of "alternatives" for the python binary.
