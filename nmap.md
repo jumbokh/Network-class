@@ -1,4 +1,4 @@
-### nmap command
+### [nmap command](https://hack543.com/nmap-tutorial/)
 * nmap -T4 192.168.1.1
 * sudo time nmap -T4 -sT -p T:1-65535 192.168.0.1
 * sudo time nmap -T4 -sS -p T:1-65535 192.168.0.1
