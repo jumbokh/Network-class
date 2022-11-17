@@ -86,7 +86,7 @@ sudo update-alternatives --config python
 * ftp 伺服器：
 * mail 伺服器：
 * Samba 伺服器：
-* DNS 伺服器：
+* DNS 伺服器：[DNS](https://github.com/jumbokh/Network-class/blob/main/DNS.md)
 * DHCP 伺服器：
 * NAT 伺服器：
 
