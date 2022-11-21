@@ -17,7 +17,7 @@ sudo systemctl disable NetworkManager
 # to see if wlan0 is assoicate with ESSID ap
 # than type Ctrl-C from the other terminal
 ```
-# Execute wlan0 connection at background
+#### Execute wlan0 connection at background
 * sudo wpa_supplicant -B -c /etc/wpa_supplicant/wpa_supplicant.conf -i wlan0
 * sudo dhclient wlan0
 * sudo ifconfig
