@@ -33,6 +33,7 @@
 ```
 #### [Kali linux images](https://www.kali.org/get-kali/)
 #### [install kali on Android system none rooted](https://www.youtube.com/watch?v=KxOGyuGq0Ts&t=1s)
+#### [Android手機安裝Kali Linux步驟](https://github.com/jumbokh/Network-class/blob/main/Android%20Kali%20NetHunter%20Install%20-%20v3.pdf)
 #### [Install Kali Linux on Raspberry Pi 4](https://linuxhint.com/install_kali_linux_raspberry_pi_4/)
 * [Raspberry pi image](https://kali.download/arm-images/kali-2022.3/kali-linux-2022.3-raspberry-pi-arm64.img.xz)
 #### [如何成為駭客 – 基礎學習篇](https://hack543.com/how-to-become-a-hacker-basic-learning/)
