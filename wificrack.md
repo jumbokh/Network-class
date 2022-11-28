@@ -165,3 +165,11 @@ WPS：
 
 --wpsretry WPSRETRY  放棄之前最多同一個PIN的重試次數。
 ```
+#### Stop wifi crack tools
+* sudo airmon-ng stop wlanmon
+#### Restart wlan0 connetc to WiFi
+```
+sudo wpa_supplicant -B -c /etc/wpa_supplicant/wpa_supplicant.conf -i wlan0
+sudo dhclient wlan0
+sudo ifconfig
+```
