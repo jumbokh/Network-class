@@ -34,3 +34,134 @@ Aircrack- ng是評估WiFi網路安全性的一整套工具。
 測試：檢查無線網路卡和驅動程式功能（捕獲和注入）
 破解：WEP和WPA PSK（WPA 1和2）
 ```
+#### [Kali下用wifite破解WIFI](https://www.twblogs.net/a/5c543824bd9eee06ef364074)
+#### 下載 hcxdumptool 
+```
+apt-get install libcurl4-openssl-dev libssl-dev zlib1g-dev libpcap-dev
+git clone https://github.com/ZerBea/hcxtools
+cd hcxtools
+make
+make install
+```
+#### 下載 hcxdumptool v4.2.0或更高版本
+```
+git clone https://github.com/ZerBea/hcxdumptool
+cd hcxdumptool
+make
+make install
+```
+#### 下載 hashcat v4.2.0或更高版本
+```
+wget https://hashcat.net/files/hashcat-4.2.1.7z
+7z x hashcat-4.2.1.7z
+```
+#### wifite 指令
+```
+可選參數：
+
+-h，--help  顯示此幫助信息並退出
+
+ 
+
+命令：
+
+--check CHECK  檢查檢查capfile [文件]進行握手。
+
+--cracked  顯示以前破解的接入點。
+
+--recrack  將已破解的網絡包含在目標中。
+
+ 
+
+全局的：
+
+--all  攻擊所有目標。
+
+-i INTERFACE  用於捕獲的無線接口。
+
+--mac  匿名MAC地址。
+
+--mon-iface MONITOR_INTERFACE  界面已經處於監視模式。
+
+-c CHANNEL  通道掃描目標。
+
+-e ESSID  通過ssid（name）指定一個特定的接入點。
+
+-b BSSID  通過bssid（mac）指定特定的接入點。
+
+--showb  掃描後顯示目標BSSID。
+
+--nodeauth  掃描時不要取消對客戶端的驗證
+
+- power POWER  攻擊任何信號強度> [pow]的目標。
+
+--tx TX  設置適配器TX功率級別。
+
+--quiet  不要在掃描期間打印AP列表。
+
+ 
+
+WPA：
+
+--wpa  只針對WPA網絡（使用--wps --wep）。
+
+--wpat WPAT  等待WPA攻擊完成的時間（秒）。
+
+--wpadt WPADT  發送deauth數據包（秒）之間的等待時間。
+
+--strip  使用tshark或pyrit去握手。
+
+--crack  使用[dic] wordlist文件破解WPA握手。
+
+--dict DIC  WPA時使用的DIC Specificy字典。
+
+--aircrack  使用aircrack驗證握手。
+
+--pyrit  使用pyrit驗證握手。
+
+--tshark  使用tshark驗證握手。
+
+--cowpatty  使用cowpatty驗證握手。
+
+ 
+
+WEP：
+
+--wep  只針對WEP網絡。
+
+--pps PPS  設置每秒要注入的數據包數量。
+
+--wept WEPT 等待每次攻擊，0意味着無窮無盡。
+
+- chopchop  使用chopchop攻擊。
+
+--arpreplay  使用arpreplay攻擊。
+
+--fragment  使用碎片攻擊。
+
+- caffelatte  使用caffe-latte攻擊。
+
+--p0841  使用P0842攻擊。
+
+-- hirte  使用hirte攻擊。
+
+--nofakeauth  假身份驗證失敗後停止攻擊。
+
+--wepca WEPCA  當IVs的數量超過[n]時開始破解。
+
+--wepsave WEPSAVE  將.cap文件的副本保存到此目錄。
+
+ 
+
+WPS：
+
+--wps  只針對WPS網絡。
+
+--pixie  只能使用WPS PixieDust攻擊
+
+--wpst WPST  最大在放棄之前等待新的重試（0：從不）。
+
+--wpsratio  成功PIN嘗試/總重試次數的最小比率。
+
+--wpsretry WPSRETRY  放棄之前最多同一個PIN的重試次數。
+```
