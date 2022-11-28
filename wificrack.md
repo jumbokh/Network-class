@@ -56,6 +56,7 @@ wget https://hashcat.net/files/hashcat-4.2.1.7z
 7z x hashcat-4.2.1.7z
 ```
 #### wifite 指令
+#### [Wifite+hashcat破解WPA2 Wi-Fi密码](https://www.shenjc.net/2020/07/19/200711_kali_linux_wifi/)
 ```
 可選參數：
 
