@@ -1,3 +1,4 @@
+#### [github](https://github.com/conwnet/wpa-dictionary)
 * iwlist wlan0 scan | grep -i “essid\| channel:”
 * iwlist wlan0 scan | grep -i --color "essid\| channel:\|quality\|address"
 #### Install aircrack-ng by source and apt
