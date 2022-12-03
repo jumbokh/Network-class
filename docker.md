@@ -5,6 +5,8 @@ kali@kali:~$ sudo apt install -y docker.io
 kali@kali:~$
 kali@kali:~$ sudo systemctl enable docker --now
 kali@kali:~$
+kali@kali:~$ sudo groupadd docker
+kali@kali:~$ sudo usermod -aG docker $USER
 kali@kali:~$ docker
 kali@kali:~$
 ```
