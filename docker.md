@@ -20,6 +20,7 @@ newgrp docker
 #### osint-framework
 * https://github.com/fr4nc1stein/osint-framework
 ```
+sudo python -m pip install --upgrade pip
 git clone https://github.com/fr4nc1stein/osint-framework osif
 cd osif
 docker-compose up -d
