@@ -19,3 +19,10 @@ newgrp docker
 ```
 #### osint-framework
 * https://github.com/fr4nc1stein/osint-framework
+```
+git clone https://github.com/fr4nc1stein/osint-framework osif
+cd osif
+docker-compose up -d
+docker exec -ti osif bash
+./osif
+```
