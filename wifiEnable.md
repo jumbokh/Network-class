@@ -10,8 +10,6 @@ sudo systemctl disable NetworkManager
 * iwconfig
 * sudo ifconfig wlan0 up
 * sudo iwlist wlan0 scan | grep ESSID
-* sudo wpa_passphrase <Your-ESSID> <Your-passphrase> | sudo tee /etc/wpa_supplicant/wpa_supplicant.conf
-* sudo wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -i wlan0
 ```
 # open a new terminal, check iwconfig
 # to see if wlan0 is assoicate with ESSID ap
