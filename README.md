@@ -20,6 +20,7 @@
 * [資安這條路─系統化學習滲透測試](https://ithelp.ithome.com.tw/users/20108446/ironman/4492)
 #### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/kaliChinese.md)
 #### [Kali Linux基礎](https://tw511.com/a/01/33439.html)
+#### [tryHackMe](https://tryhackme.com/dashboard)
 ```
 一、Linux簡介
 二、shell
