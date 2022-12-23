@@ -1,4 +1,5 @@
 #### airmon-ng
+[Word Dictionary](https://www.wirelesshack.org/wpa-wpa2-word-list-dictionaries.html)
 [Aircrack-ng套件——無線破解原理及工具詳解](https://www.796t.com/content/1543852627.html)
 ```
 ifconfig   #check wifi interface
