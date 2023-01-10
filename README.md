@@ -76,7 +76,7 @@ sudo update-alternatives --config python
 * 排程工作
 * 壓縮與解壓縮
 * Internet連線網路設定
-
+* [pdf : Linux Bible 9th-ed](https://drive.google.com/file/d/1Qp4Qrs8kgditW_SrAk5X9gyzPEUI6J4o/view?usp=sharing)
 #### Linux 使用者帳戶權限、群組權限
 * 帳號與磁碟空間管理
 * 檢視系統資訊
