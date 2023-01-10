@@ -64,6 +64,16 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 2
 sudo update-alternatives --config python
 </pre>
 ##
+```
+Brutal
+Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
+Getting Started
+git clone https://github.com/Screetsec/Brutal.git
+cd Brutal
+chmod +x Brutal.sh
+sudo ./Brutal.sh or sudo su ./Brutal.sh
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+```
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
