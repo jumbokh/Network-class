@@ -80,6 +80,7 @@ Metasploit on Termux
 Last complete installation method! 
 apt-get update -y
 apt-get upgrade -y
+# use pkg install python
 apt install python python2 -y
 pip install lolcat
 git clone https://github.com/h4ck3r0/Metasploit-termux
