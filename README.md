@@ -99,6 +99,25 @@ $ python3 -m pip install requests bs4
 $  python3 -m pip install mechanize
 $ python3 fb.py or python fb2.py
 ```
+### TorBot:-- Dark Web OSINT Tool.
+```
+TorBot:-- Dark Web OSINT Tool.
+Features:-
+1. Onion Crawler (.onion). (Completed)
+2. Returns Page title and address with a short description of the site. (Partially Completed)
+3. Save links to the database. (PR to be reviewed)
+4. Get emails from the site. (Completed)
+5. Save crawl info to JSON file. (Completed)
+6. Crawl custom domains. (Completed)
+7. Check if the link is live. (Completed)
+8. Built-in Updater. (Completed)
+9. TorBot GUI (In progress)
+10. Social Media integration. (not Started)
+11. Build a visual tree of link relationships that can be quickly viewed or saved to an image file (Completed)
+#Download #Link:-
+https://github.com/DedSecInside/TorBot
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+```
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
