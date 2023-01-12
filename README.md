@@ -118,6 +118,7 @@ Features:-
 https://github.com/DedSecInside/TorBot
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+### [sqlmap](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-zh-CN.md)
 * ![sqlmap](https://github.com/jumbokh/Network-class/blob/main/sqlmap.jpg)
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
