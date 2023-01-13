@@ -124,6 +124,7 @@ python sqlmap.py -u "http://testphp.vulnweb.com/listproducts.php?cat=1" --batch 
 ```
 * ![sqlmap](https://github.com/jumbokh/Network-class/blob/main/sqlmap1.JPG)
 * ![sqlmap1](https://github.com/jumbokh/Network-class/blob/main/sqlmap2.JPG)
+### [DarkArmy tools](https://github.com/jumbokh/Network-class/blob/main/DarkArmy.md)
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
