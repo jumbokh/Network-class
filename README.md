@@ -141,6 +141,28 @@ RouterSploit - 可在 Termux 中運行的嵌入式裝置開發框架
 https://github.com/threat9/routersploit
 ```
 ### [DarkArmy tools](https://github.com/jumbokh/Network-class/blob/main/DarkArmy.md)
+### WEBSCRAPE
+```
+TERMUX INSTALLATION GUIDE 
+pkg update -y 
+pkg upgrade -y 
+pkg install git 
+git clone https://github.com/3xploitGuy/webscrape.git
+cd webscrape 
+webscrape
+chmod +x webscrape.sh 
+webscrape 
+bash webscrape.sh
+You must have use https://....
+INSTALLING AND REQUIREMENTS
+Linux or Unix-based system
+~ ❯❯❯ git clone https://github.com/3xploitGuy/webscrape.git
+~ ❯❯❯ cd webscrape
+~/webscrape ❯❯❯ chmod +x webscrape.sh
+~/webscrape ❯❯❯ ./webscrape.sh
+SHARING IS CARING
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+```
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
