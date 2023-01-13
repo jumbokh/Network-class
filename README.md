@@ -124,6 +124,22 @@ python sqlmap.py -u "http://testphp.vulnweb.com/listproducts.php?cat=1" --batch 
 ```
 * ![sqlmap](https://github.com/jumbokh/Network-class/blob/main/sqlmap1.JPG)
 * ![sqlmap1](https://github.com/jumbokh/Network-class/blob/main/sqlmap2.JPG)
+### RouterSploit - Exploitation Framework for Embedded Devices that can run in Termux
+```
+RouterSploit - Exploitation Framework for Embedded Devices that can run in Termux
+It consists of various modules that aid penetration testing operations:
+1) exploits - modules that take advantage of identified vulnerabilities
+2) creds - modules designed to test credentials against network services…… 顯示更多
+RouterSploit - 可在 Termux 中運行的嵌入式裝置開發框架
+它由各種輔助滲透測試操作的模組組組成:
+1) 剝削 - 利用認定脆弱性的模組
+2) creds - 旨在測試憑證對抗網路服務的模組
+3) 掃描器 - 檢查目標是否容易受到任何剝削的模組
+4)有效載荷 - 負責為各種架構和注射點產生有效載荷的模組
+5) 通用 - 執行通用攻擊的模組
+使用有效載載模組,我能夠在自己測試的路由器上識別弱的webconsole管理員密碼。
+https://github.com/threat9/routersploit
+```
 ### [DarkArmy tools](https://github.com/jumbokh/Network-class/blob/main/DarkArmy.md)
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
