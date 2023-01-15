@@ -23,3 +23,8 @@ python lazymux.py
 ENJOY 🫡 Sharing is caring
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+## error process : pynacl
+```
+$ pkg install clang python libffi openssl libsodium
+$ SODIUM_INSTALL=system pip install pynacl
+```
