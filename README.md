@@ -168,6 +168,7 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 ### [Rauton:-- Bug Bounty Recon Tool.](https://github.com/jumbokh/Network-class/blob/main/rauton.md)
 ### [Vegile - Ghost In The Shell](https://github.com/jumbokh/Network-class/blob/main/Vegile.md)
 ### [Crassus Windows privilege escalation discovery tool](https://github.com/vullabs/Crassus?fbclid=IwAR2J_u-oqZ9GJw4fc8jH5zmjR9M028wsx98LMo-9KUnyFSI9EhgtbO6bD-A)
+### [bad USB](https://github.com/jumbokh/Network-class/blob/main/badUSB.md)
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
