@@ -19,3 +19,4 @@ HID Arsenal. All devices in the picture can behave as HID - NetHunter running on
 HID Arsenal。 圖片中的所有裝置都可以作為 HID - NetHunter 在 OnePlus7 和 TicWatch Pro 上運行,Digispart Attiny85 板,Flipper Zero 遙控Android 應用程式。
 👉 A HID(人類介面裝置)攻擊是一種網絡攻擊,涉及將目標裝置騙到認出它為鍵盤或滑鼠,即有能力執行預先定義的鍵盤組。
 ```
+* ![pic](https://github.com/jumbokh/Network-class/blob/main/HID.jpg)
