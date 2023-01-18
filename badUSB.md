@@ -4,6 +4,11 @@
 * [How To Program ATtiny85 Microcontroller with Arduino Uno](https://www.youtube.com/watch?v=BL1gI4AcMOA)
 * [t85_default.hex](https://raw.githubusercontent.com/micronucleus/micronucleus/master/firmware/releases/t85_default.hex)
 * [boot loader download](https://github.com/Jasdoge/Attiny85-Bootloader-Tutorial)
+### Arduino json
+```
+http://digistump.com/package_digistump_index.json
+http://drazzy.com/package_drazzy.com_index.json
+```
 ##
 ### Reference
 * [Howto](https://jimirobot.tw/arduino-tutorial-attiny-attiny85-usb/)
