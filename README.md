@@ -77,6 +77,21 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 2
 sudo update-alternatives --config python
 </pre>
 ##
+### THECHOICE TOOL
+```
+THECHOICE TOOL All in one tools
+installation commands in termux.
+Installation Commands
+apt update && apt upgrade
+pkg install git -y
+git clone https://github.com/8L4NK/thechoice
+cd thechoice
+chmod +x thechoice
+bash thechoice
+NOW ENJOY AND USE THE TOOL... 🫡
+Note:- This tool is only for educational purposes. We are not responsible for any misuse or illegal activities.
+```
+##
 ```
 Brutal
 Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
