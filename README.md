@@ -74,6 +74,22 @@ chmod +x Brutal.sh
 sudo ./Brutal.sh or sudo su ./Brutal.sh
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+### Brutesploit
+```
+Brutesploit
+BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and can be used in CTF for manipulation,combine,transform and permutation some words or file text 😛 i wrote this just for fun and learn how create interactive shell is work
+Getting Started
+git clone https://github.com/Screetsec/Brutesploit.git
+cd Brutesploit
+chmod +x Brutesploit 
+sudo ./Brutesploit or sudo su ./Brutesploit 
+A linux operating system. We recommend :
+Kali Linux 2 or Kali 2016.1 rolling
+Cyborg
+Parrot
+BackTrack
+Backbox
+```
 ### Metasploit on Termux
 ```
 Metasploit on Termux
