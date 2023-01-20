@@ -102,6 +102,8 @@ chmod +x Brutal.sh
 sudo ./Brutal.sh or sudo su ./Brutal.sh
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+### Fatrat -- exploiting tool
+* [fatRat](https://github.com/jumbokh/Network-class/blob/main/FatRar.md)
 ### Brutesploit
 ```
 Brutesploit
