@@ -221,6 +221,7 @@ git clone https://github.com/4ndr34z/shells
 cd shells
 ./install.sh
 ```
+### [LFIMap -- Local file inclusion discovery and exploitation tool](https://github.com/jumbokh/Network-class/blob/main/LFIMap.md)
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 ### [DDOS](https://github.com/jumbokh/Network-class/blob/main/DDOS.md)
