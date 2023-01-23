@@ -223,6 +223,20 @@ cd shells
 ./install.sh
 ```
 ### [LFIMap -- Local file inclusion discovery and exploitation tool](https://github.com/jumbokh/Network-class/blob/main/LFIMap.md)
+### dBmonster :-- Track WiFi Devices With Their Received Signal Strength. 
+```
+Features:-
+1. Listing WiFi interfaces
+2. Track & scan on 2.4GHz
+3. Track & scan on 5GHz
+4. Scanning for AP
+5. Scanning for STA
+6. Beep when a device found
+Download Link:-
+https://github.com/90N45-d3v/dBmonster
+Sharing is Caring
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+```
 ### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 ### [DDOS](https://github.com/jumbokh/Network-class/blob/main/DDOS.md)
