@@ -39,3 +39,13 @@ GoSniper is a hacking tool strictly for pentesting purpouses and ethical hacking
 https://github.com/Discordmodsbers/GoSniper
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+##
+### Unbekannt Framework 6.0:-- A Hacking and PentestingTool for Linux and Windows.
+```
+Info
+The Linux version is no longer supported! The last Linux version is 6.0 that you find inside this repository. The reason for this is that the Unbekannt Framework originally existed for Windows and Linux only supports a few features. Thats why I decided not to release new versions for Linux anymore.
+Download Link:- 
+https://github.com/i-am-unbekannt/unbekannt-framework
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+ Share as more as possible
+```
