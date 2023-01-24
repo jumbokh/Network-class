@@ -30,3 +30,11 @@ python3 DRipper.py -s [ip Address] -t 135
 example: python3 DRipper.py -s 0.00.00.00 -t 135
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+##
+### A DoS tool/DDoS tool.
+```
+A DoS tool/DDoS tool.
+GoSniper is a hacking tool strictly for pentesting purpouses and ethical hacking. Me Sphinx have no reliability on what you do with the tool. Everything you do is on you.
+https://github.com/Discordmodsbers/GoSniper
+Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+```
