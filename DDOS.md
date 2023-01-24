@@ -28,7 +28,8 @@ cd DDoS-Ripper  ls
 python3 DRipper.py OR python DRipper.py
 python3 DRipper.py -s [ip Address] -t 135
 example: python3 DRipper.py -s 0.00.00.00 -t 135
-Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
+Note:- This tool is only for educational purpose. 
+     We are not responsible for any misuse or illegal activities.
 ```
 ##
 ### A DoS tool/DDoS tool.
