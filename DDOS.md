@@ -49,3 +49,28 @@ https://github.com/i-am-unbekannt/unbekannt-framework
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
  Share as more as possible
 ```
+##
+### 💠Active Directory Pentesting With Kali Linux💠
+```
+💻 Description:
+Active Directory Pretesting is designed to provide security professionals to understand, analyse and practice threats and attacks in a modern Active Directory environment. The course is beginner-friendly and comes with a walkthrough videos course and all documents with all the commands executed in the videos.
+🍀 What you'll learn:
+How to Use Metasploit
+How to Use Empire
+How to Use Evil-WinRM
+How to Use CrackMapExec
+How to Exploit Active Directory
+How to Do Active Directory Enumeration
+How to do Lateral Movement
+Active Directory Post Exploitation
+Active Directory Domain Privilege Escalation
+Active Directory Persistence Attacks
+How to use Kali Linux to hack Active Directory
+How to use Nmap to Enumerate Servers
+How to exploit EternalBlue
+🌎 Size: 7.15GB
+➡️ FileType: 7z
+Download Link:- 
+https://mega.nz/folder/9E4zDSAK#qpO_t84aBYReOLaWhSPGww
+Sharing is caring
+```
