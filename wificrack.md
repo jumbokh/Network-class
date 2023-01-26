@@ -212,3 +212,36 @@ Creator isn't in charge of any and has no responsibility for any kind of:
 - Malicious act, capable of causing damage to third parties, promoted or distributed by third parties or the user through this software.
 https://github.com/D3Ext/WEF
 ```
+##
+#### Fern Wifi Cracker
+* [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker)
+```
+Prerequisites
+The following dependencies can be installed using the Debian package installer command on Debian based systems using apt-get install <program> or otherwise downloaded and installed manually
+
+Aircrack-NG
+Python 3.x
+Python-Scapy
+Python Qt5
+Subversion
+Xterm
+Reaver (for WPS Attacks)
+Macchanger
+Features
+Fern Wifi Cracker currently supports the following features:
+
+WEP Cracking with Fragmentation,Chop-Chop, Caffe-Latte, Hirte, ARP Request Replay or WPS attack
+WPA/WPA2 Cracking with Dictionary or WPS based attacks
+Automatic saving of key in database on successful crack
+Automatic Access Point Attack System
+Session Hijacking (Passive and Ethernet Modes)
+Access Point MAC Address Geo Location Tracking
+Internal MITM Engine
+Bruteforce Attacks (HTTP,HTTPS,TELNET,FTP)
+Update Support
+Running Program
+root@host:~# python3 execute.py
+The source code for the program can be fetched using the following command on terminal:
+
+root@host:~# git clone https://github.com/savio-code/fern-wifi-cracker.git
+```
