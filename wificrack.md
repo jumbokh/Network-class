@@ -175,3 +175,40 @@ sudo wpa_supplicant -B -c /etc/wpa_supplicant/wpa_supplicant.conf -i wlan0
 sudo dhclient wlan0
 sudo ifconfig
 ```
+#### WiFi Exploitation Framework
+```
+A fully offensive framework to the 802.11 networks and protocols with different types of attacks for WPA/WPA2 and WEP, automated hash cracking, and much more.
+To install WEF, you can simply do it in just 3 commands:
+Run as root
+git clone https://github.com/D3Ext/WEF
+cd WEF
+bash setup.sh
+Supported Attacks:
+- Deauthentication Attack
+- Authentication Attack
+- Beacon Flood Attack
+- PMKID Attack
+- EvilTwin Attack
+- Passive/Stealthy Attack
+- Pixie Dust Attack
+- Null Pin Attack
+- WEP Protocol Attacks
+- Michael Exploitation Attack
+- GPS Spoofing with HackRF (not finished)
+Features:
+☑️ Descriptives attack logs
+☑️ WPA/WPA2, WPS and WEP Attacks
+☑️ Auto handshake cracking
+☑️ Multiple templates for EvilTwin attack (even custom)
+☑️ Check monitor mode and its status
+☑️ 2.4Ghz and 5Ghz attacks
+☑️ Custom wordlist selector
+☑️ Auto detect requirements
+Disclaimer
+Creator isn't in charge of any and has no responsibility for any kind of:
+- Unlawful or illegal use of the project.
+- Legal or Law infringement (acted in any country, state, municipality, place) by third parties and users.
+- Act against ethical and / or human moral, ethic, and peoples of the world.
+- Malicious act, capable of causing damage to third parties, promoted or distributed by third parties or the user through this software.
+https://github.com/D3Ext/WEF
+```
