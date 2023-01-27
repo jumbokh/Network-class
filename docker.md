@@ -34,3 +34,26 @@ docker exec -ti osif bash
 ```
 web application pentesting tools for docker
 ```
+#### fsociety -- A Modular Penetration Testing Framework
+* https://github.com/fsociety-team/fsociety
+```
+Install
+pip install fsociety
+Update
+pip install --upgrade fsociety
+Usage
+usage: fsociety [-h] [-i] [-s]
+
+A Penetration Testing Framework
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -i, --info     gets fsociety info
+  -s, --suggest  suggest a tool
+Docker
+docker pull fsocietyteam/fsociety
+docker run -it fsocietyteam/fsociety fsociety
+Developing
+git clone https://github.com/fsociety-team/fsociety.git
+pip install -e ".[dev]"
+```
