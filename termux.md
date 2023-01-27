@@ -47,3 +47,28 @@ pip3 install --no-binary :all: pynacl
 pip install routersploit
 python rsf.py
 ```
+####
+#### Debug -- bcrypt
+```
+A possible workaround (for experts). Get source and apply the following patch:
+
+--- a/src/_bcrypt/Cargo.toml
++++ b/src/_bcrypt/Cargo.toml
+@@ -20,5 +20,5 @@
+ crate-type = ["cdylib"]
+ 
+ [profile.release]
+-lto = "thin"
++#lto = "thin"
+ overflow-checks = true
+And then in the source directory
+
+pip install .
+```
+##
+```
+cryptography is available as a Termux package named python-cryptography. bcrypt will soon become available as python-bcrypt.
+==>
+export CARGO_BUILD_TARGET=aarch64-linux-android && pip install cryptography
+==> python-bcrypt
+```
