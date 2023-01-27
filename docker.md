@@ -29,3 +29,8 @@ docker-compose up -d
 docker exec -ti osif bash
 ./osif
 ```
+#### pentdocks
+* https://github.com/diwsec/pentdocks
+```
+web application pentesting tools for docker
+```
