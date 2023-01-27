@@ -35,7 +35,6 @@ pip install -r requirements-dev.txt
 echo "Done!"
 ```
 ##
-* ![routerspolit](https://github.com/jumbokh/Network-class/blob/main/routerspolit.jpg)
 ```
 cd routersploit
 apt install python-cryptography
@@ -48,6 +47,7 @@ pip3 install --no-binary :all: pynacl
 pip install routersploit
 python rsf.py
 ```
+* ![routerspolit](https://github.com/jumbokh/Network-class/blob/main/routerspolit.jpg)
 ####
 #### Debug -- bcrypt
 ```
