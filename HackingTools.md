@@ -59,4 +59,6 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 ```
 Nmap with the vulscan script, once you download and set vulscan in the script file it should look like
 “nmap -sV —scripts vulscan —script-args vulscandb=exploitdb <ip address>”
+sudo ln -s `pwd`/vulscan.nse /usr/share/nmap/scripts/vulscan.nse
+ex: sudo nmap -sV --script=./vulscan.nse linuxhint.com
 ```
