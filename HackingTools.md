@@ -53,7 +53,9 @@ If need open other ports you can edit the docker-compose.yml file
 Volumes are mounted in the container to persist data and can share files between the host and the container.
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
-##
+## nmap + vulscan
+* https://linuxhint.com/nmap_vulscan/
+* https://github.com/scipag/vulscan
 ```
 Nmap with the vulscan script, once you download and set vulscan in the script file it should look like
 “nmap -sV —scripts vulscan —script-args vulscandb=exploitdb <ip address>”
