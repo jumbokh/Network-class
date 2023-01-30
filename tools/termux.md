@@ -73,3 +73,7 @@ cryptography is available as a Termux package named python-cryptography. bcrypt 
 export CARGO_BUILD_TARGET=aarch64-linux-android && pip install cryptography
 ==> python-bcrypt
 ```
+##
+### codename: Zaratustra  -- Remote Access Tool v2.10.13
+* https://github.com/r00t-3xp10it/meterpeter
+* https://github.com/r00t-3xp10it/meterpeter/releases/tag/v2.10.13?fbclid=IwAR1x6fnvnOpvoSuBJd0hvIKGxzBs8tw9iFAwpMglOlohUaCBQnf5H48QHPc
