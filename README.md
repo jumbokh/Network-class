@@ -276,9 +276,9 @@ https://github.com/90N45-d3v/dBmonster
 Sharing is Caring
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
-### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/wificrack.md)
+### [WiFi Crack]([https://github.com/jumbokh/Network-class/blob/main/wificrack.md](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md))
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
-### [DDOS](https://github.com/jumbokh/Network-class/blob/main/DDOS.md)
+### [DDOS](https://github.com/jumbokh/Network-class/blob/main/pentest/DDOS.md)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
 #### [在 Kali Linux 上使用 virtualenv 執行 Python 2 撰寫的 exploit 程式](https://hack543.com/kali-linux-virtualenv-python2-exploit/)
 * [靶機metasploitable 2 virtualbox download](https://sourceforge.net/projects/metasploitable/)
@@ -304,7 +304,7 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 * ftp 伺服器：
 * mail 伺服器：
 * Samba 伺服器：
-* DNS 伺服器：[DNS](https://github.com/jumbokh/Network-class/blob/main/DNS.md)
+* DNS 伺服器：[DNS](https://github.com/jumbokh/Network-class/blob/main/tools/DNS.md)
 * DHCP 伺服器：
 * NAT 伺服器：
 
