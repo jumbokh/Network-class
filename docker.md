@@ -57,7 +57,9 @@ Developing
 git clone https://github.com/fsociety-team/fsociety.git
 pip install -e ".[dev]"
 ```
-#### RED_HAWK
+#### RED_HAWK build
+* git clone https://github.com/Tuhinshubhra/RED_HAWK
+* cd RED_HAWK
 * sudo docker build -t myred_hawk . --no-cache
 #### Running
 * sudo docker run -it myred_hawk
