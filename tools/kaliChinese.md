@@ -14,7 +14,7 @@ sudo apt install fonts-arphic-uming fonts-noto-cjk
 sudo apt install fcitx5 fcitx5-chewing im-config 
 ### 指定 Kali Linux 視窗字型為文鼎中文明體
 ```
-![setting](https://github.com/jumbokh/Network-class/blob/main/kali-setting-manager-shortcut.jpg)
+![setting](https://github.com/jumbokh/Network-class/blob/main/images/kali-setting-manager-shortcut.jpg)
 #### (1) 開啟 Kali Linux 選單，並點擊右下角的 Setting Manager 圖示
 #### (2) 點擊「Appearance」，選擇第 3 個 Tab 「Fonts」
 #### (3) 點擊 「Default Font」中間的字型條，並選擇使用文鼎中文明體字型 (AR PL UMing TW MBE Light)，Size 選擇 12。
