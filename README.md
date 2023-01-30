@@ -1,23 +1,7 @@
 [UAV](https://drive.google.com/drive/folders/13eva29SCJLpaGdenYJS7vn9y5D8URkd5?usp=sharing)
 # Network-class
-###
-
-### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/class.7z)
-#### 網路概論與ISO七層
-* [MAC address Lookup manufacturer](https://macvendors.com/)
-#### [Packet Tracer安裝與簡單操作](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/CiscoPacketTracer.pdf)
-* [packet tracer下載](https://www.netacad.com/courses/packet-tracer)
-### 參考網站
-* [澎湖人自由軟體交流CCNA實作講義](http://www.phcno1.net/modules/tad_book3/index.php?op=list_docs&tbsn=21)
-* [Packet Tracer 思科模拟器入门教程 之一 初识Packet Tracer](https://blog.csdn.net/gengkui9897/article/details/85107429)
-* [Packet Tracer 思科模擬器入門教程 之二 交換機的基本配置與管理](https://www.itread01.com/content/1546225748.html)
-* [CSDN-Packet Tracer 思科模拟器入门教程 之二 交换机的基本配置与管理](https://blog.csdn.net/gengkui9897/article/details/85109962?utm_medium=distribute.pc_relevant.none-task-blog-blogcommendfrommachinelearnpai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-blogcommendfrommachinelearnpai2-1.channel_param)
-* [CSDN-Packet Tracer 思科模拟器入门教程 之三 交换机的Telnet远程登陆配置](https://blog.csdn.net/gengkui9897/article/details/85141157)
-* [Network & Web Hacking](https://mega.nz/folder/YtU0WZyR#wDAyWeTCqz-g4-GXhP9MgA)
-##
-### [Packet Tracer Lab](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/README.md)
-![address](https://github.com/jumbokh/Network-class/blob/main/images/NetworkUniv.jpg)
-##
+### [Network Basic](https://github.com/jumbokh/Network-class/blob/main/tools/Network-Basic.md)
+### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/tools/class.7z)
 * [資安這條路─系統化學習滲透測試](https://ithelp.ithome.com.tw/users/20108446/ironman/4492)
 #### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/kaliChinese.md)
 #### [Kali Linux基礎](https://tw511.com/a/01/33439.html)
