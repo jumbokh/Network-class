@@ -208,8 +208,8 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 ```
 python sqlmap.py -u "http://testphp.vulnweb.com/listproducts.php?cat=1" --batch --banner
 ```
-* ![sqlmap](https://github.com/jumbokh/Network-class/blob/main/sqlmap1.JPG)
-* ![sqlmap1](https://github.com/jumbokh/Network-class/blob/main/sqlmap2.JPG)
+* ![sqlmap](https://github.com/jumbokh/Network-class/blob/main/images/sqlmap1.JPG)
+* ![sqlmap1](https://github.com/jumbokh/Network-class/blob/main/images/sqlmap2.JPG)
 ### RouterSploit - Exploitation Framework for Embedded Devices that can run in Termux
 ```
 RouterSploit - Exploitation Framework for Embedded Devices that can run in Termux
