@@ -16,7 +16,7 @@
 * [Network & Web Hacking](https://mega.nz/folder/YtU0WZyR#wDAyWeTCqz-g4-GXhP9MgA)
 ##
 ### [Packet Tracer Lab](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/README.md)
-![address](https://github.com/jumbokh/Network-class/blob/main/NetworkUniv.jpg)
+![address](https://github.com/jumbokh/Network-class/blob/main/images/NetworkUniv.jpg)
 ##
 * [資安這條路─系統化學習滲透測試](https://ithelp.ithome.com.tw/users/20108446/ironman/4492)
 #### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/kaliChinese.md)
@@ -50,7 +50,7 @@ dnsenum
 whois
 fierce
 ```
-![DNS](https://github.com/jumbokh/Network-class/blob/main/PfvqEUM.png)
+![DNS](https://github.com/jumbokh/Network-class/blob/main/images/PfvqEUM.png)
 ##
 ### [nmap](https://github.com/jumbokh/Network-class/blob/main/nmap.md)
 ### Dracnmap
@@ -265,7 +265,7 @@ Linux or Unix-based system
 SHARING IS CARING
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
-* ![webscrape](https://github.com/jumbokh/Network-class/blob/main/168756.jpg)
+* ![webscrape](https://github.com/jumbokh/Network-class/blob/main/images/168756.jpg)
 ### [Lazymux](https://github.com/jumbokh/Network-class/blob/main/Lazymux.md)
 ### [Rauton:-- Bug Bounty Recon Tool.](https://github.com/jumbokh/Network-class/blob/main/rauton.md)
 ### [Vegile - Ghost In The Shell](https://github.com/jumbokh/Network-class/blob/main/Vegile.md)
