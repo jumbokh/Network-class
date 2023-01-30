@@ -47,7 +47,7 @@ pip3 install --no-binary :all: pynacl
 pip install routersploit
 python rsf.py
 ```
-* ![routerspolit](https://github.com/jumbokh/Network-class/blob/main/routerspolit.jpg)
+* ![routerspolit](https://github.com/jumbokh/Network-class/blob/main/images/routerspolit.jpg)
 ####
 #### Debug -- bcrypt
 ```
