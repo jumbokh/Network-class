@@ -77,3 +77,7 @@ export CARGO_BUILD_TARGET=aarch64-linux-android && pip install cryptography
 ### codename: Zaratustra  -- Remote Access Tool v2.10.13
 * https://github.com/r00t-3xp10it/meterpeter
 * https://github.com/r00t-3xp10it/meterpeter/releases/tag/v2.10.13?fbclid=IwAR1x6fnvnOpvoSuBJd0hvIKGxzBs8tw9iFAwpMglOlohUaCBQnf5H48QHPc
+#### Install on Linux
+```
+https://github.com/r00t-3xp10it/meterpeter/blob/master/README.md#attacker-machine-linux-kali
+```
