@@ -16,4 +16,21 @@
 ##
 ### [Packet Tracer Lab](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/README.md)
 ![address](https://github.com/jumbokh/Network-class/blob/main/images/NetworkUniv.jpg)
-##
+## 
+#### pfSense
+* [NanoPi_R4S](https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R4S/zh)
+* [Youtube: pfSense ](https://www.youtube.com/watch?v=lUzSsX4T4WQ)
+```
+LINKS
+---------------------------------------------------
+pfSense Download: https://www.pfsense.org/download/
+PIA on pfSense Official Guide: https://ntck.co/3tBrvmX
+turn your old router into an access point: https://ntck.co/38U2l9J
+
+What you (might) need: 
+---------------------------------------------------
+Protectli pfSense Router: https://geni.us/ghLjK (affiliate)
+NetGate pfSense Appliance: https://geni.us/CKLzn (affiliate)
+Switch (supports vlans): https://geni.us/sympWI (affiliate)
+
+```
