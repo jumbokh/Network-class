@@ -118,6 +118,36 @@ python lazymux.py
 ENJOY 🫡 Sharing is caring
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
+### RED_HAWK -- All in one tool for Information Gathering and Vulnerability Scanning
+* https://github.com/Tuhinshubhra/RED_HAWK
+```
+Installation:
+Run The Tool and Type fix This will Install All Required Modules.
+For The Bloggers View To Work Properly you have to configure RED HAWK with moz.com's api keys for that follow the following steps:
+How To Configure RED HAWK with moz.com for Bloggers View Scan
+
+Create an account in moz follow this link : https://moz.com/community/join
+After successful account creation and completing the verification you need to generate the API Keys
+You can get your API Keys here: https://moz.com/products/mozscape/access
+Get your AccessID and SecretKey and replace the $accessID and $secretKey variable's value in the config.php file
+All set, now you can enjoy the bloggers view.
+Usage:
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+php rhawk.php
+Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
+Select whether The Site Runs On HTTPS or not.
+Select the type of scan you want to perform
+Leave the rest to the scanner
+List of CMS Supported
+RED HAWK's CMS Detector currently is able to detect the following CMSs (Content Management Systems) in case the website is using some other CMS, Detector will return could not detect.
+
+WordPress
+Joomla
+Drupal
+Magento
+```
+##
 ```
 Brutal
 Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
