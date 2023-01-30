@@ -57,3 +57,23 @@ Developing
 git clone https://github.com/fsociety-team/fsociety.git
 pip install -e ".[dev]"
 ```
+#### RED_HAWK
+* sudo docker build -t myred_hawk . --no-cache
+#### Running
+* sudo docker run -it myred_hawk
+#### second run 
+* sudo docker ps -a
+```
+CONTAINER ID   IMAGE           COMMAND                  CREATED          STATUS                      PORTS     NAMES
+6566f37bdf3b   myred_hawk      "docker-php-entrypoi…"   38 minutes ago   Exited (0) 20 minutes ago             trusting_shannon
+```
+* sudo docker start 6566f37bdf3b
+* sudo docker attach 6566f37bdf3b
+(directory input web site url -- without http/https)
+##
+#### save and push to docker.hub
+* sudo docker save myred_hawk > myred_hawk.tar
+#### https://hub.docker.com/
+* sudo docker login
+* sudo docker tag myred_hawk jumbokh/myred_hawk
+* sudo push jumbokh/myred_hawk
