@@ -28,4 +28,4 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 $ pkg install clang python libffi openssl libsodium
 $ SODIUM_INSTALL=system pip install pynacl
 ```
-* ![Lazymux](https://github.com/jumbokh/Network-class/blob/main/Lazymux.jpg)
+* ![Lazymux](https://github.com/jumbokh/Network-class/blob/main/images/Lazymux.jpg)
