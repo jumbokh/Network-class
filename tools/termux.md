@@ -1,3 +1,17 @@
+### Install nethunter
+* [kali NetHunter](https://www.kali.org/docs/nethunter/installing-nethunter/?fbclid=IwAR3ghqFZmYRjh3sLw5WNzqegpTMIJ4nYAeWtZhdmjwMjo_ZPUx6yNHJ3o-I)
+```
+Installing NetHunter requires the following steps:
+- Download a pre-built image or build your own image
+- Put your device in developer mode
+- Unlock your device
+- Install TWRP
+- Flash Magisk
+- Android 9 and above: Format “data” and flash Universal DM-Verity & ForceEncrypt Disabler
+- Install NetHunter
+- Android 10 and above: Update NetHunter App from the NetHunter Store
+- Run the NetHunter App to finish the installation
+```
 ### Termux software install
 * pkg update
 * pkg upgrade
