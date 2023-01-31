@@ -342,3 +342,12 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 #### Docker
 * [How to Create a Docker Image From a Container](https://www.dataset.com/blog/create-docker-image/)
 * [靶機 metaploitable](https://drive.google.com/file/d/1Pz14NMxzjTKIP2jFX0xhR7nEfCe7QSoN/view?usp=sharing)
+#### 參考
+```
+Cyber-Bookmarks
+A list of bookmarks I have used since I started my journey in cyber security 
+Follow up: https://twitter.com/devmehedi101
+                  https://www.youtube.com/@SecurityTalent
+                  https://t.me/Securi3yTalent
+https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
+```
