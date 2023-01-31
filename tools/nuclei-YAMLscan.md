@@ -5,3 +5,4 @@ Nuclei使用零误报的定制模板向目标发送请求，同时可以对主�
 * install: go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 * use: nuclei -h
 * reference: https://github.com/projectdiscovery/nuclei/blob/main/README_CN.md
+* official site: https://nuclei.projectdiscovery.io/nuclei/get-started/
