@@ -10,6 +10,7 @@ kali@kali:~$ sudo usermod -aG docker $USER
 kali@kali:~$ docker
 kali@kali:~$
 ```
+* check plateform: $ dpkg-architecture -q DEB_BUILD_ARCH
 #### https://computingforgeeks.com/install-docker-and-docker-compose-on-kali-linux/
 ```
 sudo apt update && sudo apt -y full-upgrade
