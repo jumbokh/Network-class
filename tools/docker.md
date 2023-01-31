@@ -11,6 +11,7 @@ kali@kali:~$ docker
 kali@kali:~$
 ```
 * check plateform: $ dpkg-architecture -q DEB_BUILD_ARCH
+* clean dangling <none>:<none> : $ sudo docker rmi $(sudo docker images -f "dangling=true" -q)
 #### https://computingforgeeks.com/install-docker-and-docker-compose-on-kali-linux/
 ```
 sudo apt update && sudo apt -y full-upgrade
