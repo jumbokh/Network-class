@@ -35,6 +35,7 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 * scan w script: https://nmap.org/nsedoc/scripts/smb-os-discovery.html
 * sudo nmap --script smb-os-discovery.nse -d -p445 10.8.8.24
 2. metasploit : msfconsole
+    * official site: https://www.metasploit.com/
 ```
 msf6 > use auxiliary/scanner/smb/smb_ms17_010
 msf6 auxiliary(scanner/smb/smb_ms17_010) > show options
