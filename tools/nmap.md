@@ -39,7 +39,6 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 ```
 msf6 > use auxiliary/scanner/smb/smb_ms17_010
 msf6 auxiliary(scanner/smb/smb_ms17_010) > show options
-msf6 auxiliary(scanner/smb/smb_ms17_010) > show options
 
 Module options (auxiliary/scanner/smb/smb_ms17_010):
 
