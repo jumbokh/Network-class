@@ -38,3 +38,5 @@ test                    [Status: 301, Size: 318, Words: 21, Lines: 10]
 :: Progress: [90804/90804] :: Job [1/1] :: 3783 req/sec :: Duration: [0:00:24] :: Errors: 0 ::
 root@raspberrypi:~# 
 ```
+### Target directory
+* ![FUZZ](https://github.com/jumbokh/Network-class/blob/main/images/FUZZ.JPG)
