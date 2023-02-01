@@ -7,7 +7,7 @@ Nuclei使用零误报的定制模板向目标发送请求，同时可以对主�
 * reference: https://github.com/projectdiscovery/nuclei/blob/main/README_CN.md
 * official site: https://nuclei.projectdiscovery.io/nuclei/get-started/
 * template download: https://github.com/projectdiscovery/nuclei-templates
-### 應用
+### 應用 [docs](https://www.geeksforgeeks.org/nuclei-fast-and-customizable-vulnerability-scanner/?fbclid=IwAR1d5hyicSdEou4V5JzlpisOEXPyeIDqcXTToBTws3O6amRIYtYcQ-z_v1E)
 * cd nuclei-templates
     * nuclei -u http://192.168.1.121:8180 -t technologies/nginx/nginx-version.yaml
     * nuclei -u http:192.168.1.121:8180 -t cves/ -t exposures/
