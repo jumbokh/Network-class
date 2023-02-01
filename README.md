@@ -351,3 +351,4 @@ Follow up: https://twitter.com/devmehedi101
                   https://t.me/Securi3yTalent
 https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 ```
+* password dictionary download: https://github.com/steveklabnik/password-cracker/blob/master/dictionary.txt
