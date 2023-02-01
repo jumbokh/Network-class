@@ -6,6 +6,7 @@ Nuclei使用零误报的定制模板向目标发送请求，同时可以对主�
 * use: nuclei -h
 * reference: https://github.com/projectdiscovery/nuclei/blob/main/README_CN.md
 * official site: https://nuclei.projectdiscovery.io/nuclei/get-started/
+* template download: https://github.com/projectdiscovery/nuclei-templates
 ### 參考
 * https://www.geeksforgeeks.org/nuclei-fast-and-customizable-vulnerability-scanner/?fbclid=IwAR2R0hliaHmGLcMS5qZ4548Sb8YnSpN-VoXUgfOH-PmE_CLTNZMPsn0xmIg
 * Howto install golang on raspberry pi: https://www.jeremymorgan.com/tutorials/raspberry-pi/install-go-raspberry-pi/
