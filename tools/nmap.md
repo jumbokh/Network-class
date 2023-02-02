@@ -88,3 +88,6 @@ MAC Address: 08:00:27:33:DD:95 (Oracle VirtualBox virtual NIC)
 Nmap done: 1 IP address (1 host up) scanned in 2.09 seconds
 jumbo@raspberrypi:~/notebooks $ 
 ```
+##
+#### 靶機測試
+* https://www.cnblogs.com/ayoung/p/15186328.html
