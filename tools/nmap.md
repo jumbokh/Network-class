@@ -73,6 +73,11 @@ msf6 auxiliary(scanner/smb/smb_ms17_010) > set RHOSTS 10.8.8.24
 msf6 auxiliary(scanner/smb/smb_ms17_010) > exploit
 ```
 ##
+```
+cd /usr/share/nmap/scripts/
+sudo git clone https://github.com/vulnersCom/nmap-vulners.git
+sudo nmap -sV --script nmap-vulners/ <target IP>
+```
 * sudo nmap 192.168.1.121 --script=ftp-anon -p 21
 ```
 * jumbo@raspberrypi:~/notebooks $ sudo nmap 192.168.1.121 --script=ftp-anon -p 21
