@@ -356,3 +356,5 @@ https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 * [一个U盘黑掉你：HID攻击之TEENSY实战](https://bbs.kanxue.com/thread-191606.htm)
 * [一个U盘黑掉你：TEENSY实战](https://maoxian.de/2014/07/1160.html)
 * [一個U盤黑掉你：HID攻擊之TEENSY實戰](https://read01.com/nmegJz.html#.Y9tStXZByUk)
+##
+* [整合nmap & metasploit小試身手](https://ithelp.ithome.com.tw/articles/10225010)
