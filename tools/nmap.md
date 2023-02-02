@@ -72,3 +72,19 @@ View the full module info with the info, or info -d command.
 msf6 auxiliary(scanner/smb/smb_ms17_010) > set RHOSTS 10.8.8.24
 msf6 auxiliary(scanner/smb/smb_ms17_010) > exploit
 ```
+##
+* sudo nmap 192.168.1.121 --script=ftp-anon -p 21
+```
+* jumbo@raspberrypi:~/notebooks $ sudo nmap 192.168.1.121 --script=ftp-anon -p 21
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-02-02 14:58 CST
+Nmap scan report for 192.168.1.121
+Host is up (0.00064s latency).
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+|_ftp-anon: Anonymous FTP login allowed (FTP code 230)
+MAC Address: 08:00:27:33:DD:95 (Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 2.09 seconds
+jumbo@raspberrypi:~/notebooks $ 
+```
