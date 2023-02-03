@@ -3,7 +3,7 @@
 ### [Network Basic](https://github.com/jumbokh/Network-class/blob/main/tools/Network-Basic.md)
 ### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/tools/class.7z)
 * [資安這條路─系統化學習滲透測試](https://ithelp.ithome.com.tw/users/20108446/ironman/4492)
-#### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/kaliChinese.md)
+#### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/tools/kaliChinese.md)
 #### [Kali Linux基礎](https://tw511.com/a/01/33439.html)
 #### [tryHackMe](https://tryhackme.com/dashboard)
 ```
@@ -20,7 +20,7 @@
 ```
 #### [Kali linux images](https://www.kali.org/get-kali/)
 #### [install kali on Android system none rooted](https://www.youtube.com/watch?v=KxOGyuGq0Ts&t=1s)
-#### [Android手機安裝Kali Linux步驟](https://github.com/jumbokh/Network-class/blob/main/Android%20Kali%20NetHunter%20Install%20-%20v3.pdf)
+#### [Android手機安裝Kali Linux步驟](https://github.com/jumbokh/Network-class/blob/main/refers/Android%20Kali%20NetHunter%20Install%20-%20v3.pdf)
 #### [Install Kali Linux on Raspberry Pi 4](https://linuxhint.com/install_kali_linux_raspberry_pi_4/)
 * [Raspberry pi image](https://kali.download/arm-images/kali-2022.3/kali-linux-2022.3-raspberry-pi-arm64.img.xz)
 #### [如何成為駭客 – 基礎學習篇](https://hack543.com/how-to-become-a-hacker-basic-learning/)
@@ -143,7 +143,7 @@ sudo ./Brutal.sh or sudo su ./Brutal.sh
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
 ### Fatrat -- exploiting tool
-* [fatRat](https://github.com/jumbokh/Network-class/blob/main/FatRar.md)
+* [fatRat](https://github.com/jumbokh/Network-class/blob/main/tools/FatRar.md)
 ### Brutesploit
 ```
 Brutesploit
@@ -226,7 +226,7 @@ RouterSploit - 可在 Termux 中運行的嵌入式裝置開發框架
 使用有效載載模組,我能夠在自己測試的路由器上識別弱的webconsole管理員密碼。
 https://github.com/threat9/routersploit
 ```
-### [DarkArmy tools](https://github.com/jumbokh/Network-class/blob/main/DarkArmy.md)
+### [DarkArmy tools](https://github.com/jumbokh/Network-class/blob/main/tools/DarkArmy.md)
 ### WEBSCRAPE
 ```
 TERMUX INSTALLATION GUIDE 
@@ -250,18 +250,18 @@ SHARING IS CARING
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
 * ![webscrape](https://github.com/jumbokh/Network-class/blob/main/images/168756.jpg)
-### [Lazymux](https://github.com/jumbokh/Network-class/blob/main/Lazymux.md)
-### [Rauton:-- Bug Bounty Recon Tool.](https://github.com/jumbokh/Network-class/blob/main/rauton.md)
-### [Vegile - Ghost In The Shell](https://github.com/jumbokh/Network-class/blob/main/Vegile.md)
+### [Lazymux](https://github.com/jumbokh/Network-class/blob/main/tools/Lazymux.md)
+### [Rauton:-- Bug Bounty Recon Tool.](https://github.com/jumbokh/Network-class/blob/main/pentest/rauton.md)
+### [Vegile - Ghost In The Shell](https://github.com/jumbokh/Network-class/blob/main/tools/Vegile.md)
 ### [Crassus Windows privilege escalation discovery tool](https://github.com/vullabs/Crassus?fbclid=IwAR2J_u-oqZ9GJw4fc8jH5zmjR9M028wsx98LMo-9KUnyFSI9EhgtbO6bD-A)
-### [bad USB](https://github.com/jumbokh/Network-class/blob/main/badUSB.md)
+### [bad USB](https://github.com/jumbokh/Network-class/blob/main/pentest/badUSB.md)
 ### shells : A script for generating common revshells fast and easy.
 ```
 git clone https://github.com/4ndr34z/shells
 cd shells
 ./install.sh
 ```
-### [LFIMap -- Local file inclusion discovery and exploitation tool](https://github.com/jumbokh/Network-class/blob/main/LFIMap.md)
+### [LFIMap -- Local file inclusion discovery and exploitation tool](https://github.com/jumbokh/Network-class/blob/main/tools/LFIMap.md)
 ### dBmonster :-- Track WiFi Devices With Their Received Signal Strength. 
 ```
 Features:-
@@ -276,7 +276,7 @@ https://github.com/90N45-d3v/dBmonster
 Sharing is Caring
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
-### [WiFi Crack]([https://github.com/jumbokh/Network-class/blob/main/wificrack.md](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md))
+### [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md))
 ### [osint-framework](https://github.com/fr4nc1stein/osint-framework)
 ### [DDOS](https://github.com/jumbokh/Network-class/blob/main/pentest/DDOS.md)
 #### [安裝並使用virtualenv虛擬環境](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
