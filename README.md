@@ -1,4 +1,20 @@
-[UAV](https://drive.google.com/drive/folders/13eva29SCJLpaGdenYJS7vn9y5D8URkd5?usp=sharing)
+#### 課綱
+* w1. 網路概論 -- Packet Tracer安裝與簡單操作
+* w2. CCNA 實作  交換機
+* w3. 228和平紀念日
+* w4. CCNA 實作   路由與 VLAN
+* w5. Kali Linux on oracle virtualbox, 安裝與網路設定
+* w6. 網路安全滲透測試的相關理論和工具, 滲透測試報告的編寫
+* w7. 資訊蒐集 -- whois, nslookup, dig, nmap
+* w8. 清明節
+* w9. 期中考
+* w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
+* w11. 靶機建立 (Metasploitable ), 以Docker建立工具環境
+* w12. osif 漏洞掃描, metasploit-framework 漏洞文件
+* w13. terminux + Nethunter on Android system
+* w14. USB rubber ducky 介紹
+* w15. 期末考
+##
 # Network-class
 ### [Network Basic](https://github.com/jumbokh/Network-class/blob/main/tools/Network-Basic.md)
 ### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/tools/class.7z)
