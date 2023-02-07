@@ -1,8 +1,8 @@
 #### 課綱
 * w1. 網路概論 -- Packet Tracer安裝與簡單操作
-* w2. CCNA 實作  交換機
+* w2. CCNA 實作 交換機設定
 * w3. 228和平紀念日
-* w4. CCNA 實作   路由與 VLAN
+* w4. CCNA 實作 路由與 VLAN
 * w5. Kali Linux on oracle virtualbox, 安裝與網路設定
 * w6. 網路安全滲透測試的相關理論和工具, 滲透測試報告的編寫
 * w7. 資訊蒐集 -- whois, nslookup, dig, nmap
