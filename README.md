@@ -374,3 +374,4 @@ https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 * [一個U盤黑掉你：HID攻擊之TEENSY實戰](https://read01.com/nmegJz.html#.Y9tStXZByUk)
 ##
 * [整合nmap & metasploit小試身手](https://ithelp.ithome.com.tw/articles/10225010)
+* [top 500 hacking tool](https://github.com/shubhamg0sai/All_top_500_hacking_tool)
