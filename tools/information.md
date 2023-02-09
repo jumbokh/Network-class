@@ -1,5 +1,5 @@
 ### Website Inforamtion gathering.
-* https://github.c/Ign0r3dH4x0r/BloodyIP.git
+* https://github.com/Ign0r3dH4x0r/BloodyIP.git
 ```
 Website Inforamtion gathering.
 MAJOR FEATURES
