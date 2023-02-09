@@ -1,4 +1,5 @@
 * [How to Use Metasploit Modules?](https://techofide.com/blogs/how-to-use-metasploit-meterpreter-reverse-shell-metasploit-tutorial/?fbclid=IwAR2srI3HMQZCFaKyADUlYsuaf-0BNHDV4qQCC9_Trqewn3qFdoP67agy2d4)
+* [metasploit docs](https://docs.metasploit.com/)
 ### Service
 ```
 root@raspberrypi:~/nuclei-templates/technologies/nginx# nmap -sV -T4 192.168.1.121
