@@ -1,4 +1,8 @@
 ### Website Inforamtion gathering.
+#### requirement:
+* python3
+* pip install twilio==6.0.0
+##
 * https://github.com/Ign0r3dH4x0r/BloodyIP.git
 ```
 Website Inforamtion gathering.
