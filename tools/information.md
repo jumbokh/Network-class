@@ -20,3 +20,4 @@ $ cd BloodyIP
 $ bash bloody.sh
 Note:- This tool is only for educational purposes. We are not responsible for any misuse or illegal activities.
 ```
+* ![cmd](https://github.com/jumbokh/Network-class/blob/main/images/info.JPG)
