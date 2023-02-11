@@ -137,3 +137,13 @@ $  cd PentestBox
 $  pip3 install -r requirements.txt 
 $  python3 PentestBox.py
 ```
+##
+* https://github.com/Bhai4You/Shikari
+```
+shikari, Personal Data Stealer Termux Tool.
+Installation
+$ pip install shikari
+or
+$ wget https://raw.githubusercontent.com/....../shikari.sh;bash shikari.sh
+Note:- This tool is only for educational purposes. We are not responsible for any misuse or illegal activities.
+```
