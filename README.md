@@ -15,6 +15,7 @@
 * w14. USB rubber ducky 介紹
 * w15. 期末考
 ##
+* ![jobs](https://github.com/jumbokh/Network-class/blob/main/images/Jobs.jpg)
 # Network-class
 ### [Network Basic](https://github.com/jumbokh/Network-class/blob/main/tools/Network-Basic.md)
 ### 電腦網路概論 [ppt](https://github.com/jumbokh/Network-class/blob/main/tools/class.7z)
