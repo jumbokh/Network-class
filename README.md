@@ -23,6 +23,7 @@
 #### [kali Linux 中文設定](https://github.com/jumbokh/Network-class/blob/main/tools/kaliChinese.md)
 #### [Kali Linux基礎](https://tw511.com/a/01/33439.html)
 #### [tryHackMe](https://tryhackme.com/dashboard)
+#### [Honeypot Or Not?](https://honeyscore.shodan.io/?fbclid=IwAR34JUm-wj8BBMi1eEEF_rLk8VfA2Ut7OJpAh6j0eIhSLrJVCz-M3NU7KUQ)
 ```
 一、Linux簡介
 二、shell
