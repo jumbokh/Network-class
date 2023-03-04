@@ -22,3 +22,6 @@
     * kali@kali:~$ searchsploit wordpress mail list
 * Copy To Clipboard
     * kali@kali:~$ searchsploit -p 39446
+##
+#### Havoc
+* [Havoc](https://github.com/HavocFramework/Havoc/blob/main/WIKI.MD)
