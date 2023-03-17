@@ -1,5 +1,6 @@
 ### [nmap command](https://hack543.com/nmap-tutorial/)
 * nmap -T4 192.168.1.1
+* nmap -sT --script vuln 192.168.1.100
 * sudo time nmap -T4 -sT -p T:1-65535 192.168.0.1
 * sudo time nmap -T4 -sS -p T:1-65535 192.168.0.1
 #### 列舉開啟服務的詳細版本
