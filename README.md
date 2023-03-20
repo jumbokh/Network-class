@@ -5,6 +5,9 @@
 * w4. CCNA 實作 路由與 VLAN
 * w5. Kali Linux on oracle virtualbox, 安裝與網路設定
 * w6. 網路安全滲透測試的相關理論和工具, 滲透測試報告的編寫
+    * [如何编写一份专业的渗透测试报告](https://www.anquanke.com/post/id/215031)
+    * [如何寫好一份滲透測試報告](https://read01.com/zh-tw/4nnzay4.html#.ZBh0XXZByUk)
+    * [某單位網站弱點掃描報告](https://github.com/jumbokh/Network-class/blob/main/refers/%E6%9F%90%E5%96%AE%E4%BD%8D%E7%B6%B2%E7%AB%99%E6%8E%83%E6%8F%8F%E5%A0%B1%E5%91%8A.pdf)
 * w7. 資訊蒐集 -- whois, nslookup, dig, nmap
 * w8. 清明節
 * w9. 期中考
