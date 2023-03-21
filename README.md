@@ -41,6 +41,12 @@
 十、檔案管理許可權命令
 ```
 #### [kali vm 安裝](https://ithelp.ithome.com.tw/articles/10298620)
+* login: kali password: kali
+* 打開 terminal
+* sudo apt-get update
+* sudo apt-get upgrade
+* sudo apt-get install kali-linux-everything
+##
 #### [Kali linux images](https://www.kali.org/get-kali/)
 #### [install kali on Android system none rooted](https://www.youtube.com/watch?v=KxOGyuGq0Ts&t=1s)
 #### [Android手機安裝Kali Linux步驟](https://github.com/jumbokh/Network-class/blob/main/refers/Android%20Kali%20NetHunter%20Install%20-%20v3.pdf)
