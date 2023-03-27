@@ -11,14 +11,23 @@
     * [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
     * [渗透测试报告](https://www.doc88.com/tag/%E3%80%90%E7%B2%BE%E5%93%81%E3%80%91%E9%9F%B6%E5%85%B3%E7%A7%BB%E5%8A%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A111206)
 * w7. 資訊蒐集 -- whois, nslookup, dig, nmap
+    * [Data collect](https://github.com/jumbokh/Network-class/blob/main/tools/dataCollect.md)
     * [nmap](https://github.com/jumbokh/Network-class/blob/main/tools/nmap.md)
+    * [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md)
 * w8. 清明節
 * w9. 期中考
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
+    * [nmap attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab1.md)
+    * [nmap + vulscan](https://github.com/jumbokh/Network-class/blob/main/pentest/HackingTools.md)
 * w11. 靶機建立 (Metasploitable ), 以Docker建立工具環境
+    * [Metasploitable](https://github.com/jumbokh/Network-class/blob/main/tools/metasploitable.md)
 * w12. osif 漏洞掃描, metasploit-framework 漏洞文件
+    * [Lab2](https://github.com/jumbokh/Network-class/blob/main/tools/Lab2.md)
 * w13. terminux + Nethunter on Android system
+    * [termux](https://github.com/jumbokh/Network-class/blob/main/tools/termux.md)
 * w14. USB rubber ducky 介紹
+    * [pentest](https://github.com/jumbokh/Network-class/blob/main/pentest/pentest.md)
+    * [Bad USB key](https://github.com/jumbokh/Network-class/blob/main/pentest/badUSB.md)
 * w15. 期末考
 ##
 * docker run --name container-name -it tleemcjr/metasploitable2:latest sh -c "/bin/services.sh && bash"
