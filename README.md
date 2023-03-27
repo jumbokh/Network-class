@@ -19,6 +19,7 @@
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
     * [nmap attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab1.md)
     * [nmap + vulscan](https://github.com/jumbokh/Network-class/blob/main/pentest/HackingTools.md)
+    * [vuln scan](https://github.com/jumbokh/Network-class/blob/main/pentest/Vuln-Map.md)
 * w11. 靶機建立 (Metasploitable ), 以Docker建立工具環境
     * [Metasploitable](https://github.com/jumbokh/Network-class/blob/main/tools/metasploitable.md)
 * w12. osif 漏洞掃描, metasploit-framework 漏洞文件
