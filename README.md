@@ -11,6 +11,7 @@
     * [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
     * [渗透测试报告](https://www.doc88.com/tag/%E3%80%90%E7%B2%BE%E5%93%81%E3%80%91%E9%9F%B6%E5%85%B3%E7%A7%BB%E5%8A%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A111206)
 * w7. 資訊蒐集 -- whois, nslookup, dig, nmap
+    * [nmap](https://github.com/jumbokh/Network-class/blob/main/tools/nmap.md)
 * w8. 清明節
 * w9. 期中考
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
