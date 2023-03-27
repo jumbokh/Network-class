@@ -9,6 +9,7 @@
     * [如何寫好一份滲透測試報告](https://read01.com/zh-tw/4nnzay4.html#.ZBh0XXZByUk)
     * [某單位網站弱點掃描報告](https://github.com/jumbokh/Network-class/blob/main/refers/%E6%9F%90%E5%96%AE%E4%BD%8D%E7%B6%B2%E7%AB%99%E6%8E%83%E6%8F%8F%E5%A0%B1%E5%91%8A.pdf)
     * [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
+    * [渗透测试报告](https://www.doc88.com/tag/%E3%80%90%E7%B2%BE%E5%93%81%E3%80%91%E9%9F%B6%E5%85%B3%E7%A7%BB%E5%8A%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A111206)
 * w7. 資訊蒐集 -- whois, nslookup, dig, nmap
 * w8. 清明節
 * w9. 期中考
