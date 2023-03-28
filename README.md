@@ -14,7 +14,7 @@
     * [Data collect](https://github.com/jumbokh/Network-class/blob/main/tools/dataCollect.md)
     * [nmap](https://github.com/jumbokh/Network-class/blob/main/tools/nmap.md)
     * [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md)
-* w8. 清明節
+* w8. 兒童節
 * w9. 期中考
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
     * [nmap attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab1.md)
