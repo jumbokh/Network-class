@@ -84,10 +84,10 @@ sw0(config-if)#switchport mode trunk
 ##
 #### vlan-1 setup
 ```
-pc0:192.168.10.1 接switchf0/1   vlan50
-pc1:192.168.10.2 接switchf0/2   vlan50
-pc3:192.168.10.3 接switchf0/3   vlan60
-pc4:192.168.10.4 接switchf0/4   vlan60
+pc0:192.168.10.1 接switch1 f0/1   vlan50
+pc1:192.168.10.2 接switch1 f0/2   vlan50
+pc3:192.168.10.3 接switch2 f0/1   vlan60
+pc4:192.168.10.4 接switch2 f0/2   vlan60
 測試pc1   ping    pc2 and pc3
 ```
 ![vlan1](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/vlan1.JPG)
