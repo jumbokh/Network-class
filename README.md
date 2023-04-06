@@ -54,6 +54,7 @@
 九、搜尋命令
 十、檔案管理許可權命令
 ```
+#### [Linux for Beginner](https://github.com/jumbokh/Network-class/blob/main/refers/Linux%20For%20Beginners%20Including%20commandline.pdf)
 #### [kali vm 安裝](https://ithelp.ithome.com.tw/articles/10298620)
 * login: kali password: kali
 * 打開 terminal
