@@ -18,6 +18,7 @@
 * w8. 兒童節
 * w9. 期中考
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
+    * [SSH Pentesting Guide](https://community.turgensec.com/ssh-hacking-guide/?fbclid=IwAR2qItiPOu3CD689o6qoECpEjTZq2Vp4tyL0NQMnERpmoes8XVbWo_ZrzyY)
     * [nmap attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab1.md)
     * [nmap + vulscan](https://github.com/jumbokh/Network-class/blob/main/pentest/HackingTools.md)
     * [vuln scan](https://github.com/jumbokh/Network-class/blob/main/pentest/Vuln-Map.md)
