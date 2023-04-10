@@ -15,6 +15,7 @@
     * [Data collect](https://github.com/jumbokh/Network-class/blob/main/tools/dataCollect.md)
     * [nmap](https://github.com/jumbokh/Network-class/blob/main/tools/nmap.md)
     * [WiFi Crack](https://github.com/jumbokh/Network-class/blob/main/pentest/wificrack.md)
+    * [DNS 問題除錯 dig 指令使用教學與範例](https://officeguide.cc/dns-problem-dig-debug-tutorial-examples/)
 * w8. 兒童節
 * w9. 期中考
 * w10. NMAP + scripts 進行漏洞掃描 + Metasploit 系統漏洞分析
