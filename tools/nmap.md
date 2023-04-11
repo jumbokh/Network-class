@@ -1,4 +1,29 @@
 ### [nmap command](https://hack543.com/nmap-tutorial/)
+* nmap -A 192.168.1.1   #全面掃描
+* nmap 192.168.1.1-200  # 掃描指定段
+```
+-sP      Ping掃描
+-P0      無Ping掃描, 用於防火牆禁止 Ping 掃描
+-PS      TCP SYN Ping掃描
+-PA      TCP ACK Ping掃描
+-PU      UDP Ping掃描
+-PE;-PP;-PM      ICMP Ping Types掃描
+-PR      ARP Ping掃描
+-n       禁止DNS反向解析
+-R       反向解析域名
+--system-dns    使用系統域名解析器
+-sL      列表掃描
+-6       掃描 IPv6 地址
+--traceroute 路由跟蹤
+-PY      SCTP INIT Ping 掃描
+```
+* nmap -sP 192.168.1.1/24
+* nmap -p0 --packet-trace scanme.nmap.org
+* nmap -PS -v 192.168.1.1
+* nmap -PS80,100-200 -v 192.168.1.1
+* nmap -PA -v 192.168.1.1
+* nmap -PA -PS 192.168.1.1
+* nmap --traceroute -v kali.org
 * nmap -T4 192.168.1.1
 * nmap -sT --script vuln 192.168.1.100
 * sudo time nmap -T4 -sT -p T:1-65535 192.168.0.1
