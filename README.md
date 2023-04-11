@@ -4,6 +4,22 @@
 * w3. 228和平紀念日
 * w4. CCNA 實作 路由與 VLAN
 * w5. Kali Linux on oracle virtualbox, 安裝與網路設定
+```
+1.進入 正修訊息網, 選擇圖書資訊->圖資雲教室->第一次使用, 需下載用戶端程式->桌面雲-程式AI雲
+2. 下載安裝 virtualbox
+3. 開啟檔案總管, 啟用網路與共享
+4. 複製本地端下載中的 kali 及 metasploit 的 vm 至 雲端的文件, 並解開
+5. 開啟 virtualbox, 新增虛擬機
+6. kali 的網路設定為 NAT, metasploit 的網路設定:僅限主機介面卡+virtualbox host-only Ethernet Adapter
+7. 開啟 kali, 打開終端機, 輸入:
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install kali-linux-everything
+$ sudo reboot
+假設 kali 的 ip: 10.0.2.15, meta 的 ip: 192.168.56.101
+從 kali ping meta:
+$ sudo ping 192.168.56.101
+```
 * w6. 網路安全滲透測試的相關理論和工具, 滲透測試報告的編寫
     * [網站漏洞掃描 Acunetix Web Vulnerability Scanner](https://ithelp.ithome.com.tw/articles/10008411)
     * [如何编写一份专业的渗透测试报告](https://www.anquanke.com/post/id/215031)
