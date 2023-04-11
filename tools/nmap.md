@@ -99,6 +99,15 @@ msf6 auxiliary(scanner/smb/smb_ms17_010) > set RHOSTS 10.8.8.24
 msf6 auxiliary(scanner/smb/smb_ms17_010) > exploit
 ```
 ##
+### nmap script install
+```
+locate where your nmap scripts are located on your system
+    for *nix system it might be  ~/.nmap/scripts/ or $NMAPDIR
+    for Mac it might be /usr/local/Cellar/nmap/<version>/share/nmap/scripts/
+    for Windows it might be C:\Program Files (x86)\Nmap\scripts
+copy the provided script (vulners.nse) into that directory
+run *nmap --script-updatedb* to update the nmap script DB 
+```
 ```
 cd /usr/share/nmap/scripts/
 sudo git clone https://github.com/vulnersCom/nmap-vulners.git
