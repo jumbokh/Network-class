@@ -9,6 +9,8 @@
 2. 下載安裝 virtualbox
 3. 開啟檔案總管, 啟用網路與共享
 4. 複製本地端下載中的 kali 及 metasploit 的 vm 至 雲端的文件, 並解開
+   kali的使用者及密碼:  kali/kali
+   meta的使用者及密碼: msfadmin/msfadmin
 5. 開啟 virtualbox, 新增虛擬機
 6. kali 的網路設定為 NAT, metasploit 的網路設定:僅限主機介面卡+virtualbox host-only Ethernet Adapter
 7. 開啟 kali, 打開終端機, 輸入:
