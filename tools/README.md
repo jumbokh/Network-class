@@ -14,3 +14,25 @@ $ cd hasher
 $ python2 hash.py
 ```
 * ![hasher](https://github.com/jumbokh/Network-class/blob/main/images/hasher.PNG)
+## Recon Dog : Reconnaissance Swiss Army Knife
+* https://github.com/s0md3v/ReconDog
+```
+Recon Dog : Reconnaissance Swiss Army Knife
+Main Features
+Wizard + CLA interface
+Can extracts targets from STDIN (piped input) and act upon them
+All the information is extracted with APIs, no direct contact is made to the target
+Utilities
+Censys: Uses censys.io to gather massive amount of information about an IP address.
+NS Lookup: Does name server lookup
+Port Scan: Scan most common TCP ports
+Detect CMS: Can detect 400+ content management systems
+Whois lookup: Performs a whois lookup
+Detect honeypot: Uses shodan.io to check if target is a honeypot
+Find subdomains: Uses findsubdomains.com to find subdomains
+Reverse IP lookup: Does a reverse IP lookup to find domains associated with an IP address
+Detect technologies: Uses wappalyzer.com to detect 1000+ technologies
+All: Runs all utilities against the target
+#Download Link
+https://github.com/s0md3v/ReconDog
+```
