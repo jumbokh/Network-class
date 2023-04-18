@@ -32,9 +32,11 @@ If PostgreSQL isn’t running, use the following command to run it:
 * sudo /etc/init.d/postgresql status 
 ```
 curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb> msfinstall && chmod 755 && msfinstall && ./msfinstall
+
+$ sudo msfdb init
 ```
 * msfconsole -q
-
+* [metasploit use reference](https://github.com/jumbokh/Network-class/blob/main/tools/metasploitable.md)
 * w6. 網路安全滲透測試的相關理論和工具, 滲透測試報告的編寫
     * [網站漏洞掃描 Acunetix Web Vulnerability Scanner](https://ithelp.ithome.com.tw/articles/10008411)
     * [如何编写一份专业的渗透测试报告](https://www.anquanke.com/post/id/215031)
