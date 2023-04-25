@@ -55,6 +55,7 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 * sudo nmap -T4 -sT -O 192.168.0.1
 #### 整合
 * sudo  nmap -T4 -sT -p 1-65535 -r -sC -sV 192.168.0.1
+#### [nmap script](https://www.tecmint.com/use-nmap-script-engine-nse-scripts-in-linux/)
 ##
 #### 資訊蒐集
 * sudo nmap --script ip-geolocation-* www.0day.co
