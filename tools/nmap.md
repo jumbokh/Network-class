@@ -62,7 +62,7 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 * sudo nmap --script whois-domain.nse --script-args whois.whodb=nofollow www.0day.co
 * sudo nmap -sn --script whois -v -iL host.txt
 * sudo nmap --script dns-brute kali.org
-* sudo nmap -p 445 192.168.1.101 --script membase-http-info        # 檢索系統資訊
+* sudo nmap -p 445 154.213.16.101 --script membase-http-info        # 檢索系統資訊
 ##
 #### 蒐集 E-mail
 * sudo nmap --script http-email-harvest 0day
