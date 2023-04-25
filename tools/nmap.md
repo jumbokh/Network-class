@@ -58,7 +58,7 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 ##
 #### 資訊蒐集
 * sudo nmap --script ip-geolocation-* www.0day.co
-* sudo nmap --script whois kali.org     # whois
+* sudo nmap --script whois www.0day.co     # whois
 * sudo nmap --script whois --script-args whois.whodb=nofollow www.0day.co
 * sudo nmap -sn --script whois -v -iL host.txt
 * sudo nmap --script dns-brute kali.org
