@@ -115,6 +115,7 @@ msf6 auxiliary(scanner/smb/smb_ms17_010) > exploit
 ##
 ### nmap script install
 ```
+$ sudo locate *.nse
 locate where your nmap scripts are located on your system
     for *nix system it might be  ~/.nmap/scripts/ or $NMAPDIR
     for Mac it might be /usr/local/Cellar/nmap/<version>/share/nmap/scripts/
