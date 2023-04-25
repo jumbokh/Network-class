@@ -56,6 +56,19 @@ Nmap done: 1 IP address (0 hosts up) scanned in 2.00 seconds
 #### 整合
 * sudo  nmap -T4 -sT -p 1-65535 -r -sC -sV 192.168.0.1
 ##
+#### 資訊蒐集
+* sudo nmap --script ip-geolocation-* www.0day.co
+* sudo nmap --script whois kali.org     # whois
+* sudo nmap --script whois --script-args whois.whodb=nofollow www.0day.co
+* sudo nmap -sn --script whois -v -iL host.txt
+* sudo nmap --script dns-brute kali.org
+* sudo nmap -p 445 192.168.1.101 --script membase-http-info        # 檢索系統資訊
+##
+#### 蒐集 E-mail
+* sudo nmap --script http-email-harvest 0day
+##
+#### IP 反查
+* sudo nmap -sn --script hostmap-ip2hosts 0day
 ####
 1. 找一台未修補 ms17-010 的 Windows 7 做為攻擊目標
 * scan w script: https://nmap.org/nsedoc/scripts/smb-os-discovery.html
