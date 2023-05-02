@@ -12,7 +12,7 @@
    kali的使用者及密碼:  kali/kali
    meta的使用者及密碼: msfadmin/msfadmin
 5. 開啟 virtualbox, 新增虛擬機
-6. kali 的網路設定為 NAT, metasploit 的網路設定:僅限主機介面卡+virtualbox host-only Ethernet Adapter
+6. kali 的網路 及 metasploit 的網路設定為:僅限主機介面卡+virtualbox host-only Ethernet Adapter
 7. 開啟 kali, 打開終端機, 輸入:
 $ sudo apt update
 $ sudo apt upgrade
@@ -22,6 +22,7 @@ $ sudo reboot
 從 kali ping meta:
 $ sudo ping 192.168.56.101
 ```
+* ![kali](https://github.com/jumbokh/Network-class/blob/main/images/kali.PNG)
 ### [Install Metasploit on Kali Linux using Terminal](https://www.fosslinux.com/48112/install-metasploit-kali-linux.htm)
 * sudo apt install metasploit-framework
 ```
