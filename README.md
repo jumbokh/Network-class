@@ -22,7 +22,8 @@ $ sudo reboot
 從 kali ping meta:
 $ sudo ping 192.168.56.101
 ```
-* ![kali](https://github.com/jumbokh/Network-class/blob/main/images/kali.PNG)
+##
+![kali](https://github.com/jumbokh/Network-class/blob/main/images/kali.PNG))
 ### [Install Metasploit on Kali Linux using Terminal](https://www.fosslinux.com/48112/install-metasploit-kali-linux.htm)
 * sudo apt install metasploit-framework
 ```
