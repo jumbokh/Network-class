@@ -58,10 +58,10 @@ $ sudo msfdb init
     * [vuln scan](https://github.com/jumbokh/Network-class/blob/main/pentest/Vuln-Map.md)
 * w11. 靶機建立 (Metasploitable ), 以Docker建立工具環境
     * [Metasploitable](https://github.com/jumbokh/Network-class/blob/main/tools/metasploitable.md)
-    * [Metasploit Framework](https://github.com/jumbokh/Network-class/blob/main/refers/lab4-instruction.pdf)
+    * [Lab4: Metasploit Framework](https://github.com/jumbokh/Network-class/blob/main/refers/lab4-instruction.pdf)
 * w12. osif 漏洞掃描, metasploit-framework 漏洞文件
     * [Lab2](https://github.com/jumbokh/Network-class/blob/main/tools/Lab2.md)
-    * [Wireless Exploitation & Defense](https://github.com/jumbokh/Network-class/blob/main/refers/lab7-instruction.pdf)
+    * [Lab7: Wireless Exploitation & Defense](https://github.com/jumbokh/Network-class/blob/main/refers/lab7-instruction.pdf)
 * w13. terminux + Nethunter on Android system
     * [termux](https://github.com/jumbokh/Network-class/blob/main/tools/termux.md)
 * w14. USB rubber ducky 介紹
