@@ -18,7 +18,7 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt install kali-linux-everything
 $ sudo reboot
-假設 kali 的 ip: 10.0.2.15, meta 的 ip: 192.168.56.101
+假設 kali 的 ip: 192.168.56.102, meta 的 ip: 192.168.56.101
 從 kali ping meta:
 $ sudo ping 192.168.56.101
 ```
