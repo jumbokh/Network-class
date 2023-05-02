@@ -59,6 +59,7 @@ $ sudo msfdb init
 * w11. 靶機建立 (Metasploitable ), 以Docker建立工具環境
     * [Metasploitable](https://github.com/jumbokh/Network-class/blob/main/tools/metasploitable.md)
     * [Lab4: Metasploit Framework](https://github.com/jumbokh/Network-class/blob/main/refers/lab4-instruction.pdf)
+    * [參考: Pentest lab - Metasploitable 2](https://chousensha.github.io/blog/2014/06/03/pentest-lab-metasploitable-2/)
 * w12. osif 漏洞掃描, metasploit-framework 漏洞文件
     * [Lab2](https://github.com/jumbokh/Network-class/blob/main/tools/Lab2.md)
     * [Lab7: Wireless Exploitation & Defense](https://github.com/jumbokh/Network-class/blob/main/refers/lab7-instruction.pdf)
