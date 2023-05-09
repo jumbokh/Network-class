@@ -66,6 +66,8 @@ $ sudo msfdb init
     * [Lab2](https://github.com/jumbokh/Network-class/blob/main/tools/Lab2.md)
     * [Lab7: Wireless Exploitation & Defense](https://github.com/jumbokh/Network-class/blob/main/refers/lab7-instruction.pdf)
 * w13. terminux + Nethunter on Android system
+    * [Youtube](https://www.youtube.com/watch?v=KxOGyuGq0Ts)
+    * [wifite]()
     * [termux](https://github.com/jumbokh/Network-class/blob/main/tools/termux.md)
 * w14. USB rubber ducky 介紹
     * [pentest](https://github.com/jumbokh/Network-class/blob/main/pentest/pentest.md)
