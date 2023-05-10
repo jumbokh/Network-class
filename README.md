@@ -70,6 +70,8 @@ $ sudo msfdb init
     * [wifite]()
     * [termux](https://github.com/jumbokh/Network-class/blob/main/tools/termux.md)
 * w14. USB rubber ducky 介紹
+    * [Nessus Download](https://www.tenable.com/downloads/nessus?loginAttempted=true)
+    * [Nessus install](https://linux.how2shout.com/how-to-install-configure-nessus-on-ubuntu-20-04/)
     * [pentest](https://github.com/jumbokh/Network-class/blob/main/pentest/pentest.md)
     * [Bad USB key](https://github.com/jumbokh/Network-class/blob/main/pentest/badUSB.md)
 * w15. 期末考
