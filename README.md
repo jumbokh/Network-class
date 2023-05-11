@@ -74,6 +74,7 @@ $ sudo msfdb init
     * [Nessus install](https://linux.how2shout.com/how-to-install-configure-nessus-on-ubuntu-20-04/)
     * [pentest](https://github.com/jumbokh/Network-class/blob/main/pentest/pentest.md)
     * [Bad USB key](https://github.com/jumbokh/Network-class/blob/main/pentest/badUSB.md)
+    * [Attiny85 Bootloader](https://github.com/Jasdoge/Attiny85-Bootloader-Tutorial)
 * w15. 期末考
 ##
 * docker run --name container-name -it tleemcjr/metasploitable2:latest sh -c "/bin/services.sh && bash"
