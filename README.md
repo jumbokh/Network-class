@@ -454,3 +454,4 @@ https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 * [整合nmap & metasploit小試身手](https://ithelp.ithome.com.tw/articles/10225010)
 * [top 500 hacking tool](https://github.com/shubhamg0sai/All_top_500_hacking_tool)
 * [csc Cyber security Practice](https://cse.sustech.edu.cn/faculty/~zhangfw/18sp-csc4992/)
+* [Hacking eBooks](https://github.com/C0MPL3XDEV/Hacking-Security-Ebooks)
