@@ -143,7 +143,7 @@ A linux operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling / Cyb
 Must install nmap
 Note:- This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.
 ```
-#### [install python2.7](https://github.com/jumbokh/Network-class/blob/main/installpy2.md)
+#### [install python2.7](https://github.com/jumbokh/Network-class/blob/main/tools/installpy2.md)
 #### 設定 python3 為 default python [參考](https://linuxconfig.org/change-default-python-version-on-raspbian-gnu-linuxl)
 * Step 1. Add both (all) versions of python installed to the list of "alternatives" for the python binary.
 <pre>
