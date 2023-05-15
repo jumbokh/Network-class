@@ -76,6 +76,7 @@ $ sudo msfdb init
     * [pentest](https://github.com/jumbokh/Network-class/blob/main/pentest/pentest.md)
     * [Bad USB key](https://github.com/jumbokh/Network-class/blob/main/pentest/badUSB.md)
     * [Attiny85 Bootloader](https://github.com/Jasdoge/Attiny85-Bootloader-Tutorial)
+    * [pico keyboard micropython](https://www.hackster.io/TomoDesigns/the-super-easy-pico-keyboard-989e7d)
 * w15. 期末考
 ##
 * docker run --name container-name -it tleemcjr/metasploitable2:latest sh -c "/bin/services.sh && bash"
