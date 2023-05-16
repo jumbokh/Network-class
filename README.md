@@ -79,6 +79,13 @@ $ sudo msfdb init
     * [pico keyboard micropython](https://www.hackster.io/TomoDesigns/the-super-easy-pico-keyboard-989e7d)
     * [Fix error Downloading](https://www.linuxndroid.com/2022/12/not-downloading-how-to-fix-digistump.html)
 * w15. 期末考
+* 練習
+    * [Lab Attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab-attack.md)
+    * [Lab-metasploit](https://github.com/jumbokh/Network-class/blob/main/tools/Lab-metasploit.md)
+    * [Lab1 : nmap](https://github.com/jumbokh/Network-class/blob/main/tools/Lab1.md)
+    * [Lab2 : Find the vulnerable host](https://github.com/jumbokh/Network-class/blob/main/tools/Lab2.md)
+    * [Lab3 : osif check host](https://github.com/jumbokh/Network-class/blob/main/tools/Lab3.md)
+    * [Lab4-Metasploit](https://github.com/jumbokh/Network-class/blob/main/tools/Lab4-Metasploit.md)
 ##
 * docker run --name container-name -it tleemcjr/metasploitable2:latest sh -c "/bin/services.sh && bash"
 * ![jobs](https://github.com/jumbokh/Network-class/blob/main/images/Jobs.jpg)
