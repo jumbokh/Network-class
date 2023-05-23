@@ -78,6 +78,9 @@ $ sudo msfdb init
     * [Attiny85 Bootloader](https://github.com/Jasdoge/Attiny85-Bootloader-Tutorial)
     * [pico keyboard micropython](https://www.hackster.io/TomoDesigns/the-super-easy-pico-keyboard-989e7d)
     * [Fix error Downloading](https://www.linuxndroid.com/2022/12/not-downloading-how-to-fix-digistump.html)
+    * [Attiny85 Install 1](https://learn.sparkfun.com/tutorials/how-to-install-an-attiny-bootloader-with-virtual-usb)
+    * [Attiny85 Install QA](https://bbs.pigoo.com/thread-67527-1-1.html)
+    * [Attiny85教學](https://jimirobot.tw/arduino-tutorial-attiny-attiny85-usb/)
 * w15. 期末考
 * 練習
     * [Lab Attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab-attack.md)
