@@ -81,6 +81,10 @@ $ sudo msfdb init
     * [Attiny85 Install 1](https://learn.sparkfun.com/tutorials/how-to-install-an-attiny-bootloader-with-virtual-usb)
     * [Attiny85 Install QA](https://bbs.pigoo.com/thread-67527-1-1.html)
     * [Attiny85教學](https://jimirobot.tw/arduino-tutorial-attiny-attiny85-usb/)
+    * [Attiny85 project](http://highlowtech.org/?p=1695)
+    * json:
+        * http://drazzy.com/package_drazzy.com_index.json
+        * http://digistump.com/package_digistump_index.json
 * w15. 期末考
 * 練習
     * [Lab Attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab-attack.md)
