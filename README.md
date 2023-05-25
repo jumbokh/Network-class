@@ -85,6 +85,10 @@ $ sudo msfdb init
     * json:
         * http://drazzy.com/package_drazzy.com_index.json
         * http://digistump.com/package_digistump_index.json
+    * RGB DHT11 project:
+        * [ref. url](https://www.instructables.com/Temperature-Humidity-Monitoring-Using-Digispark-US/)
+        * [arduino code](https://github.com/jumbokh/Network-class/blob/main/source/rgb_dht11_digispark_.ino)
+        * [DHT.zip](https://github.com/jumbokh/Network-class/blob/main/source/DHT.zip)
 * w15. 期末考
 * 練習
     * [Lab Attack](https://github.com/jumbokh/Network-class/blob/main/tools/Lab-attack.md)
