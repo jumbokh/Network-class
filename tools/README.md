@@ -1,3 +1,6 @@
+##
+* [Pentration Testing, Beginners To Expert!](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes?fbclid=IwAR2684oD2HYczUu9lCW9voIBQhXAIaJ1P1WsbYnarU_OZO5djsTFAS9jxjk)
+##
 * ![list](https://github.com/jumbokh/Network-class/blob/main/images/ExploitationTools.jpg)
 ## 軟路由 NanoPi R5S
 * please go to https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S/zh  
