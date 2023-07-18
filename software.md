@@ -8,6 +8,7 @@
 7. git for windows: https://gitforwindows.org/
 8. cisco packet tracer: https://www.netacad.com/portal/node/488
               or: https://www.netacad.com/portal/resources/packet-tracer
+              or: https://drive.google.com/file/d/1pHI6F6NFrPqq_6oeXf2E5pcOK2KyXS2Y/view?usp=drive_link
 ```
 ### 1. 可以的話直接使用 Linux ubuntu 或 Linux Kali
 ### 2. 在圖資雲是否可放置 Kali linux vm 及 Metasploitable vm
