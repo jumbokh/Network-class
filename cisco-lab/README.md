@@ -36,7 +36,7 @@ Router1#ip route 192.168.10.0 255.255.255.0 192.168.50.2
 * [Lab 3-1](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab3-1.pkt)
 * [Lab 4a](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4a.pkt)
     * http://www.phcno1.net/modules/tad_book3/html_all.php?tbsn=21
-    * 1-11 動態路由設定
+    * 1-11 動態路由設定 [動態路由學習筆記](https://jimylps.pixnet.net/blog/post/49099264-%E3%80%90cisco%E3%80%91%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%8B%95%E6%85%8B%E8%B7%AF%E7%94%B1%E5%8D%94%E8%AD%B0-rip)
     * 2-1 Switch的STP協定
 * [Lab 4b](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4b.pkt)
 * [Lab 4c](https://github.com/jumbokh/class1091/blob/master/cisco-lab/lab/lab4c.pkt)
