@@ -137,3 +137,4 @@ Giga1/1設為trunk
     * http://ccnatiy.blogspot.com/2015/01/ripv2eigrp.html
 ##
 ![NetMask](https://github.com/jumbokh/Network-class/blob/main/cisco-lab/doc/netmask.jpg)
+* [網路與子網路遮罩](https://notes.andywu.tw/2018/ip%E7%AD%89%E7%B4%9A%E8%88%87%E5%AD%90%E7%B6%B2%E8%B7%AF%E9%81%AE%E7%BD%A9%E4%BB%8B%E7%B4%B9/)
