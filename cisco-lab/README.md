@@ -10,6 +10,7 @@
 * [CSDN-Packet Tracer 思科模拟器入门教程 之二 交换机的基本配置与管理](https://blog.csdn.net/gengkui9897/article/details/85109962?utm_medium=distribute.pc_relevant.none-task-blog-blogcommendfrommachinelearnpai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-blogcommendfrommachinelearnpai2-1.channel_param)
 * [CSDN-Packet Tracer 思科模拟器入门教程 之三 交换机的Telnet远程登陆配置](https://blog.csdn.net/gengkui9897/article/details/85141157)
 * [蕭老師 個人網頁](http://www.csie.sju.edu.tw/cm/)
+* [蕭老師講義](http://www.csie.sju.edu.tw/cm/course/list.htm)
 * [Packet Tracer 思科模擬器入門教程 之十七 網路地址轉換NAT配置](https://www.796t.com/content/1546225513.html)
 ##
 ### 作業
