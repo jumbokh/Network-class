@@ -459,6 +459,7 @@ Note:- This tool is only for educational purpose. We are not responsible for any
 * [靶機 metaploitable](https://drive.google.com/file/d/1Pz14NMxzjTKIP2jFX0xhR7nEfCe7QSoN/view?usp=sharing)
 * [弱點架設](https://github.com/jumbokh/VulApps)
 #### 參考
+### [FB Zeroday](https://www.facebook.com/ZeroDayExploitware)
 ```
 Cyber-Bookmarks
 A list of bookmarks I have used since I started my journey in cyber security 
