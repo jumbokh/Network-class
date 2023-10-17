@@ -130,6 +130,7 @@ $ sudo msfdb init
 * sudo apt-get upgrade
 * sudo apt-get install kali-linux-everything
 ##
+#### [打造 Kali Linux 2021 中文桌面環境(字型、中文輸入法)](https://hack543.com/kali-linux-2021-tradictional-chinese-env/)
 #### [Kali linux images](https://www.kali.org/get-kali/)
 #### [install kali on Android system none rooted](https://www.youtube.com/watch?v=KxOGyuGq0Ts&t=1s)
 #### [Android手機安裝Kali Linux步驟](https://github.com/jumbokh/Network-class/blob/main/refers/Android%20Kali%20NetHunter%20Install%20-%20v3.pdf)
