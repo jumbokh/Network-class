@@ -10,3 +10,6 @@ sudo useradd username -m -d /home/username
 sudo passwd username
 # add user to /etc/sudoers
 ```
+### add search path
+* export PATH=.:$PATH
+* add to ~/.bashrc
