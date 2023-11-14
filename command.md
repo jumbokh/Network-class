@@ -12,5 +12,6 @@ sudo passwd username
 ```
 ### add search path
 * export PATH=.:$PATH
-* add to ~/.bashrc
+* nano ~/.bashrc
+* echo 'export PATH=.:$PATH' >> ~/.bashrc
 * source .bashrc
