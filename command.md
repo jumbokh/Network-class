@@ -13,3 +13,4 @@ sudo passwd username
 ### add search path
 * export PATH=.:$PATH
 * add to ~/.bashrc
+* source .bashrc
