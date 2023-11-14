@@ -21,3 +21,5 @@ sudo passwd username
      * nameserver 168.95.1.1
 ### dig mail server
 * dig 8.8.8.8 mx
+### trace
+* dig +trace csu.edu.tw
