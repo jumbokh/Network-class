@@ -19,3 +19,5 @@ sudo passwd username
 * sudo nano /etc/resolv.conf
      * nameserver 8.8.8.8
      * nameserver 168.95.1.1
+### dig mail server
+* dig 8.8.8.8 mx
