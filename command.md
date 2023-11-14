@@ -15,3 +15,7 @@ sudo passwd username
 * nano ~/.bashrc
 * echo 'export PATH=.:$PATH' >> ~/.bashrc
 * source .bashrc
+### add nameserver
+* sudo nano /etc/resolv.conf
+     * nameserver 8.8.8.8
+     * nameserver 168.95.1.1
