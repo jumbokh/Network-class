@@ -73,3 +73,5 @@ Basic options:
   RHOSTS  192.168.56.101   yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html           
   RPORT   21               yes       The target port (TCP)            
 ```
+### Metasploit search by CVE
+* [CVE search](https://github.com/ferdinandmudjialim/metasploit-cve-search)
