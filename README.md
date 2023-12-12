@@ -27,6 +27,7 @@ $ sudo ping 192.168.56.101
 ## 靶機
 * [VM](https://www.vulnhub.com/)
 * [本地架設攻防](https://feifei.tw/qcon-003-how-to-set-up-a-cybersecurity-lab-locally/)
+* [Target](https://github.com/jumbokh/Network-class/blob/main/target.md)
 ##
 ## 資訊收集
 * [kali](https://blog.51cto.com/u_15309736/5471646)
