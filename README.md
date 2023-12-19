@@ -19,6 +19,7 @@ pip install --upgrade aiohttp
 pip install --upgrade aiohttp_socks
 ```
 #### wordlist: https://github.com/kkrypt0nn/wordlists
+####  aircrack-ng -w /usr/share/wordlists/rockyou.txt /root/桌面-1.cap
 #### 課綱
 * w1. 網路概論 -- Packet Tracer安裝與簡單操作
 * w2. CCNA 實作 交換機設定
