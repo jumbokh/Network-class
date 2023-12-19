@@ -18,6 +18,7 @@ pip install async-timeout
 pip install --upgrade aiohttp
 pip install --upgrade aiohttp_socks
 ```
+#### wordlist: https://github.com/kkrypt0nn/wordlists
 #### 課綱
 * w1. 網路概論 -- Packet Tracer安裝與簡單操作
 * w2. CCNA 實作 交換機設定
