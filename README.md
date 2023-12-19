@@ -1,6 +1,23 @@
 * [Tutoring](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)
 * [DVWA target](https://ithelp.ithome.com.tw/articles/10207050)
 * [OSIF install](https://osif.laet4x.com/installation)
+### ubuntu install OSIF tools
+```
+sudo apt-get install python3-chardet
+pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+pip install faust-cchardet
+pip3 install cython
+pip3 install cchardet aiodns
+git clone --depth=1 https://github.com/twintproject/twint.git
+cd twint
+pip3 install . -r requirements.txt
+pip3 install twint
+sudo apt-get -y install python3-async-timeout
+pip install aiodns
+pip install async-timeout
+pip install --upgrade aiohttp
+pip install --upgrade aiohttp_socks
+```
 #### 課綱
 * w1. 網路概論 -- Packet Tracer安裝與簡單操作
 * w2. CCNA 實作 交換機設定
