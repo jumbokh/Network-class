@@ -11,7 +11,7 @@
 說明
 1. 參考 CSC Lab4: https://github.com/jumbokh/Network-class/blob/main/refers/lab4-instruction.pdf
 2. 使用 metasploit-framework :
-     a. irc
+     a. ircd
      b. vsftpd
     在 metasploitable vm 上留下你的學號的檔名, 如:
      999999999.irc
