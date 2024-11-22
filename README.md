@@ -1,3 +1,5 @@
+## git clone SSL error for vpn :
+### git config --global http.sslBackend openssl
 ## [sploitscan](https://github.com/xaitax/SploitScan)
 ## [期末報告](https://github.com/jumbokh/Network-class/blob/main/Final.md)
 ## [payload](https://docs.rapid7.com/metasploit/working-with-payloads/)
